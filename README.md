@@ -1,4 +1,4 @@
-# Github 开源仓库统计数据库
+# StarRank-Daily
 
 基于 GitHub REST API 收集的 **1000 个最高星标公共开源仓库** 的本地数据库应用，提供完整的增删改查功能、数据可视化图表和高级筛选能力，并通过 GitHub Actions 每日自动同步最新数据。
 
