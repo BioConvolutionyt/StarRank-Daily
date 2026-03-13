@@ -6,7 +6,7 @@
 
 本项目支持通过 GitHub Pages 直接在线浏览，无需安装任何软件或运行服务器：
 
-**访问地址**：`https://<你的用户名>.github.io/StarRank-Daily/`
+**访问地址**：`https://BioConvolutionyt.github.io/StarRank-Daily/`
 
 ### 开启 GitHub Pages
 
