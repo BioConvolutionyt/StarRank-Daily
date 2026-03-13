@@ -1,0 +1,1001 @@
+repo_name,organization,language,stars,forks,open_issues,age_days,has_coc,has_contributing,has_workflows,has_readme,description
+build-your-own-x,codecrafters-io,Markdown,465892,43725,474,2838,False,False,False,True,Master programming by recreating your favorite technologies from scratch.
+awesome,sindresorhus,,437387,33176,72,4236,False,True,True,True,😎 Awesome lists about all kinds of interesting topics
+freeCodeCamp,freeCodeCamp,TypeScript,437065,43374,323,4069,False,False,True,True,"freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
+public-apis,public-apis,Python,398362,42615,843,3617,False,True,True,True,A collective list of free APIs
+free-programming-books,EbookFoundation,Python,382530,65905,72,4509,False,False,True,True,:books: Freely available programming books
+developer-roadmap,kamranahmedse,TypeScript,349025,43697,32,3258,True,True,True,True,"Interactive roadmaps, guides and other educational content to help developers grow in their careers."
+coding-interview-university,jwasham,,336976,81644,95,3540,False,False,True,True,A complete computer science study plan to become a software engineer.
+system-design-primer,donnemartin,Python,335320,54413,524,3275,False,True,True,True,Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+awesome-python,vinta,Python,282802,27205,17,4249,False,True,True,True,"An opinionated list of awesome Python frameworks, libraries, software and resources."
+996.ICU,996icu,,275463,20964,16698,2517,False,False,False,True,Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+awesome-selfhosted,awesome-selfhosted,,273203,12424,0,3911,False,False,True,True,A list of Free Software network services and web applications which can be hosted on your own servers
+project-based-learning,practical-tutorials,,258277,33686,275,3230,False,True,True,True,Curated list of project-based tutorials
+react,facebook,JavaScript,242990,50574,1115,4649,True,True,True,True,The library for web and native user interfaces.
+Python,TheAlgorithms,Python,217675,50047,893,3500,False,True,True,True,All Algorithms implemented in Python
+linux,torvalds,C,217354,60435,3,5276,False,False,False,True,Linux kernel source tree
+vue,vuejs,TypeScript,209882,33880,622,4583,False,False,True,True,"This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core"
+the-book-of-secret-knowledge,trimstray,,206262,12418,104,2793,False,False,True,True,"A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more."
+computer-science,ossu,HTML,201254,25015,18,4304,False,True,True,True,🎓 Path to a free self-taught education in Computer Science!
+javascript-algorithms,trekhleb,JavaScript,195532,31126,390,2884,True,True,True,True,📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+openclaw,openclaw,TypeScript,193753,33323,5643,82,False,True,True,True,Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+tensorflow,tensorflow,C++,193706,75228,3550,3752,True,True,True,True,An Open Source Machine Learning Framework for Everyone
+ohmyzsh,ohmyzsh,Shell,184682,26285,513,6013,True,True,True,True,"🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community."
+You-Dont-Know-JS,getify,,184393,33667,3,4473,False,True,True,True,A book series (2 published editions) on the JS language.
+CS-Notes,CyC2018,,183673,51201,194,2923,False,False,False,True,:books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
+AutoGPT,Significant-Gravitas,Python,181797,46222,328,1066,True,True,True,True,"AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters."
+vscode,microsoft,TypeScript,181684,37936,13869,3816,False,True,True,True,Visual Studio Code
+Python-100-Days,jackfrued,Jupyter Notebook,178656,55402,688,2907,False,False,False,True,Python - 100天从新手到大师
+flutter,flutter,Dart,175189,29981,12448,3997,True,True,True,True,Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+n8n,n8n-io,TypeScript,174512,54840,1365,2429,True,True,True,True,"Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations."
+bootstrap,twbs,MDX,173966,79114,577,5313,True,False,True,True,"The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web."
+gitignore,github,,172430,82840,94,5576,False,True,True,True,A collection of useful .gitignore templates
+Microsoft-Activation-Scripts,massgravel,Batchfile,166018,15977,4,2224,False,False,False,True,"Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting."
+awesome-go,avelino,Go,165014,12963,182,4241,True,True,True,True,"A curated list of awesome Go frameworks, libraries and software"
+ollama,ollama,Go,162596,14576,2419,963,False,True,True,True,"Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models."
+stable-diffusion-webui,AUTOMATIC1111,Python,160545,29956,2459,1272,False,False,True,True,Stable Diffusion web UI
+the-art-of-command-line,jlevy,,159822,14773,251,3923,False,True,False,True,"Master the command line, in one page"
+transformers,huggingface,Python,156457,32067,2233,2665,True,True,True,True,"🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. "
+JavaGuide,Snailclimb,Java,153800,46112,74,2840,False,False,True,True,Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发与系统设计。准备后端技术面试，首选 JavaGuide！
+javascript,airbnb,JavaScript,148094,26761,185,4852,True,False,True,True,JavaScript Style Guide
+FreeDomain,DigitalPlatDev,HTML,147481,2567,28,625,False,False,True,True,DigitalPlat FreeDomain: Free Domain For Everyone
+yt-dlp,yt-dlp,Python,147071,11917,2313,1937,False,True,True,True,A feature-rich command-line audio/video downloader
+prompts.chat,f,HTML,145239,19169,6,1167,False,True,True,True,"a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy."
+langflow,langflow-ai,Python,144782,8452,1012,1101,True,True,True,True,Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
+HelloGitHub,521xueweihan,Python,142991,11110,268,3573,False,False,True,True,":octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub."
+youtube-dl,ytdl-org,Python,139648,10591,4116,5585,False,True,True,True,Command-line program to download videos from YouTube.com and other video sites
+next.js,vercel,JavaScript,137665,30460,3333,3418,True,True,True,True,The React Framework
+tech-interview-handbook,yangshun,TypeScript,137599,16448,59,3511,True,True,True,True,Curated coding interview preparation materials for busy software engineers
+scrcpy,Genymobile,C,135638,12643,2735,3006,False,False,True,True,Display and control your Android device
+fucking-algorithm,labuladong,Markdown,132557,23696,2,2187,False,False,True,True,"刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why. "
+go,golang,Go,132468,18820,9839,4197,False,True,True,True,The Go programming language
+PowerToys,microsoft,C#,129778,7713,8148,2480,True,True,True,True,Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
+dify,langgenius,TypeScript,129596,20159,721,1039,False,True,True,True,Production-ready platform for agentic workflow development.
+30-seconds-of-code,Chalarangelo,JavaScript,126772,12439,0,2998,True,True,True,True,Coding articles to level up your development skills
+langchain,langchain-ai,Python,126650,20836,400,1216,False,True,True,True,🦜🔗 The platform for reliable agents.
+react-native,facebook,C++,125354,25086,1187,4053,True,True,True,True,A framework for building native applications using React
+open-webui,open-webui,Python,123898,17503,244,861,True,False,True,True,"User-friendly AI Interface (Supports Ollama, OpenAI API, ...)"
+hello-algo,krahets,Java,122289,14830,27,1198,False,False,True,True,"《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现"
+kubernetes,kubernetes,Go,120491,42460,2634,4270,False,True,True,True,Production-Grade Container Scheduling and Management
+electron,electron,C++,120087,16985,901,4691,True,True,True,True,":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS"
+free-for-dev,ripienaar,HTML,117926,12063,12,3985,False,False,True,True,"A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev"
+excalidraw,excalidraw,TypeScript,116731,12523,2782,2235,False,True,True,True,Virtual whiteboard for sketching hand-drawn like diagrams
+free-programming-books-zh_CN,justjavac,,116318,28347,31,4485,True,True,True,True,:books: 免费的计算机编程类中文书籍，欢迎投稿
+node,nodejs,JavaScript,115707,34741,2446,4097,True,True,True,True,Node.js JavaScript runtime ✨🐢🚀✨
+system-prompts-and-models-of-ai-tools,x1xhlol,,114502,29594,123,345,False,False,True,True,"FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models"
+d3,d3,Shell,112324,22819,27,5618,False,False,True,True,"Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:"
+iptv,iptv-org,TypeScript,111525,5594,352,2648,False,True,True,True,Collection of publicly available IPTV channels from all over the world
+three.js,mrdoob,JavaScript,110875,36273,602,5806,False,False,True,True,JavaScript 3D Library.
+rust,rust-lang,Rust,110275,14489,12074,5721,True,True,True,True,Empowering everyone to build reliable and efficient software.
+axios,axios,JavaScript,108595,11512,316,4197,True,True,True,True,Promise based HTTP client for the browser and node.js
+TypeScript,microsoft,TypeScript,107809,13223,5454,4260,True,True,True,True,TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+rustdesk,rustdesk,Rust,107472,15968,100,1965,False,False,True,True,"An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer."
+godot,godotengine,C++,106656,24324,17600,4424,False,True,True,True,Godot Engine – Multi-platform 2D and 3D game engine
+ui,shadcn-ui,TypeScript,106603,7880,1770,1137,False,True,True,True,"A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code."
+Awesome-Hacking,Hack-with-Github,,106563,9996,31,3608,False,True,True,True,"A collection of various awesome lists for hackers, pentesters and security researchers"
+generative-ai-for-beginners,microsoft,Jupyter Notebook,106402,57001,16,970,True,True,True,True,"21 Lessons, Get Started Building with Generative AI "
+GitHub-Chinese-Top-Charts,GrowingGit,Java,106160,13489,190,2354,False,False,False,True,:cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
+deno,denoland,Rust,106141,5897,2603,2832,False,False,True,True,A modern runtime for JavaScript and TypeScript.
+nodebestpractices,goldbergyoni,Dockerfile,105082,10691,88,3074,False,False,True,True,:white_check_mark:  The Node.js best practices list (July 2024)
+frp,fatedier,Go,104506,14884,50,3708,False,False,True,True,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+opencode,anomalyco,TypeScript,104454,10142,5170,289,False,True,True,True,The open source coding agent.
+create-react-app,facebook,JavaScript,103929,27132,2367,3499,True,True,True,True,Set up a modern web app by running one command.
+papers-we-love,papers-we-love,Shell,103274,6268,3,4444,True,False,True,True,Papers from the computer science community to read and discuss.
+ComfyUI,Comfy-Org,Python,103215,11749,3703,1124,False,True,True,True,"The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface."
+tauri,tauri-apps,Rust,102692,3381,1359,2408,False,False,True,True,"Build smaller, faster, and more secure desktop and mobile applications with a web frontend."
+terminal,microsoft,C++,101814,9072,1699,3108,True,True,True,True,"The new Windows Terminal and the original Windows console host, all in the same place!"
+DeepSeek-V3,deepseek-ai,Python,101579,16516,92,415,False,False,True,True,
+angular,angular,TypeScript,99830,27060,1107,4167,True,True,True,True,Deliver web apps with confidence 🚀
+awesome-mac,jaywcjlove,JavaScript,98810,7390,189,3499,False,True,True,True," Now we have become very big, Different from the original idea. Collect premium software in various categories."
+HowToCook,Anduin2017,Dockerfile,97942,10818,466,2177,True,True,True,True,程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
+material-ui,mui,JavaScript,97808,32765,1740,4197,False,True,True,True,Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
+every-programmer-should-know,mtdvio,,97785,8643,20,3096,False,True,True,True,A collection of (mostly) technical things every software developer should know about
+supabase,supabase,TypeScript,97598,11544,922,2317,False,True,True,True,"The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
+ant-design,ant-design,TypeScript,97515,54521,1379,3949,True,False,True,True,An enterprise-class UI design language and React UI library
+pytorch,pytorch,Python,97407,26857,18002,3472,True,True,True,True,Tensors and Dynamic neural networks in Python with strong GPU acceleration
+clash-verge-rev,clash-verge-rev,TypeScript,97270,7134,145,815,False,True,True,True,"A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience"
+v2rayN,2dust,C#,96806,14195,13,2391,False,False,True,True,"A GUI client for Windows, Linux and macOS, support Xray and sing-box and others"
+neovim,neovim,Vim Script,96430,6580,2040,4397,False,True,True,True,Vim-fork focused on extensibility and usability
+thefuck,nvbn,Python,95464,3835,406,3965,False,True,True,True,Magnificent app which corrects your previous console command.
+Web-Dev-For-Beginners,microsoft,JavaScript,95286,15150,41,1922,True,True,True,True,"24 Lessons, 12 Weeks, Get Started as a Web Developer"
+fastapi,fastapi,Python,95091,8687,157,2625,False,True,True,True,"FastAPI framework, high performance, easy to learn, fast to code, ready for production"
+llama.cpp,ggml-org,C++,95020,14899,1123,1071,False,True,True,True,LLM inference in C/C++
+awesome-llm-apps,Shubhamsaboo,Python,94948,13754,19,656,False,False,True,True,"Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models."
+whisper,openai,Python,94610,11753,115,1246,False,False,True,True,Robust Speech Recognition via Large-Scale Weak Supervision
+gemini-cli,google-gemini,TypeScript,94487,11165,2133,302,False,True,True,True,An open-source AI agent that brings the power of Gemini directly into your terminal.
+clean-code-javascript,ryanmcdermott,JavaScript,94296,12508,119,3367,False,False,False,True,Clean Code concepts adapted for JavaScript
+java-design-patterns,iluwatar,Java,93734,27395,213,4206,False,True,True,True,Design patterns implemented in Java
+puppeteer,puppeteer,TypeScript,93564,9370,286,3202,False,False,True,True,JavaScript API for Chrome and Firefox
+tailwindcss,tailwindlabs,TypeScript,93519,5059,86,3053,False,False,True,True,A utility-first CSS framework for rapid UI development.
+immich,immich-app,TypeScript,92471,4907,721,1472,True,True,True,True,High performance self-hosted photo and video management solution.
+DeepSeek-R1,deepseek-ai,,91855,11774,48,390,False,False,True,True,
+nvm,nvm-sh,Shell,91693,9869,375,5783,True,True,True,True,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+app-ideas,florinpop17,,90395,10292,596,2545,True,True,True,True,A Collection of application ideas which can be used to improve your coding skills.
+vue-element-admin,PanJiaChen,Vue,90293,30628,1372,3225,False,False,True,True,:tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
+storybook,storybookjs,TypeScript,89236,9856,2252,3620,True,True,True,True,"Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation"
+bitcoin,bitcoin,C++,88112,38904,736,5536,False,True,True,True,Bitcoin Core integration/staging tree
+gin,gin-gonic,Go,87985,8558,886,4260,True,True,True,True,"Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices."
+bun,oven-sh,Zig,87316,4055,6089,1767,True,True,True,True,"Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one"
+NextChat,ChatGPTNextWeb,TypeScript,87289,60376,790,1071,True,False,True,True,✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
+markitdown,microsoft,Python,87056,5056,427,457,True,False,True,True,Python tool for converting files and office documents to Markdown.
+django,django,Python,86754,33642,405,5040,False,True,True,True,The Web framework for perfectionists with deadlines.
+hugo,gohugoio,Go,86565,8190,273,4608,False,True,True,True,The world’s fastest framework for building websites.
+opencv,opencv,C++,86158,56525,2718,4958,False,True,True,True,Open Source Computer Vision Library
+mermaid,mermaid-js,TypeScript,86014,8618,1625,4122,True,True,True,True,Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
+svelte,sveltejs,JavaScript,85753,4769,965,3372,True,True,True,True,web development for the rest of us
+LLMs-from-scratch,rasbt,Jupyter Notebook,85265,12901,0,936,False,False,True,True,"Implement a ChatGPT-like LLM in PyTorch from scratch, step by step"
+core,home-assistant,Python,84807,36742,3250,4533,True,True,True,True,:house_with_garden: Open source home automation that puts local control and privacy first.
+manim,3b1b,Python,84475,7120,472,3981,False,False,True,True,Animation engine for explanatory math videos
+weekly,ruanyf,,84066,3877,7089,2681,False,False,False,True,科技爱好者周刊，每周五发布
+ML-For-Beginners,microsoft,Jupyter Notebook,83706,19971,6,1809,True,True,True,True,"12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all"
+laravel,laravel,Blade,83636,24677,31,5365,False,False,True,True,"Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things."
+mall,macrozheng,Java,82909,29653,12,2873,False,False,False,True,mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
+realworld,realworld-apps,Bru,82828,7564,40,3640,False,True,True,True,"""The mother of all demo apps"" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more"
+uptime-kuma,louislam,JavaScript,82795,7394,696,1687,True,True,True,True,A fancy self-hosted monitoring tool
+animate.css,animate-css,CSS,82634,16102,73,5239,True,True,True,True,🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
+awesome-for-beginners,MunGell,,82621,7742,100,3765,False,True,True,True,A list of awesome beginners-friendly projects.
+playwright,microsoft,TypeScript,82613,5134,593,2282,True,True,True,True,"Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. "
+firecrawl,firecrawl,TypeScript,82424,6028,168,669,False,True,True,True,🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
+FiraCode,tonsky,Clojure,81158,3175,426,4112,False,False,True,True,Free monospaced font with programming ligatures
+devops-exercises,bregman-arie,Python,81074,18585,38,2325,False,True,True,True,"Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions"
+awesome-interview-questions,DopplerHQ,,80936,9360,49,3731,False,True,True,True,:octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: 
+awesome-mcp-servers,punkpeye,,80822,7195,281,441,False,True,False,True,A collection of MCP servers.
+spring-boot,spring-projects,Java,79915,41863,499,4866,False,True,True,True,"Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss."
+syncthing,syncthing,Go,79897,4926,397,4463,False,True,True,True,Open Source Continuous File Synchronization
+system-design-101,ByteByteGoHq,,79529,8707,57,879,False,True,True,True,Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
+Deep-Live-Cam,hacksider,Python,79476,11575,110,874,False,True,True,True,real time face swap and one-click video deepfake with only a single image
+uv,astral-sh,Rust,79204,2555,2669,865,True,True,True,True,"An extremely fast Python package and project manager, written in Rust."
+funNLP,fighting41love,Python,78960,15137,44,2734,False,False,True,True,"中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术系列报告、自然语言生成、NLU太难了系列、自动对联数据及机器人、用户名黑名单列表、罪名法务名词及分类模型、微信公众号语料、cs224n深度学习自然语言处理课程、中文手写汉字识别、中文自然语言处理 语料/数据集、变量命名神器、分词语料库+代码、任务型对话英文数据集、ASR 语音数据集 + 基于深度学习的中文语音识别系统、笑声检测器、Microsoft多语言数字/单位/如日期时间识别包、中华新华字典数据库及api(包括常用歇后语、成语、词语和汉字)、文档图谱自动生成、SpaCy 中文模型、Common Voice语音识别数据集新版、神经网络关系抽取、基于bert的命名实体识别、关键词(Keyphrase)抽取包pke、基于医疗领域知识图谱的问答系统、基于依存句法与语义角色标注的事件三元组抽取、依存句法分析4万句高质量标注数据、cnocr：用来做中文OCR的Python3包、中文人物关系知识图谱项目、中文nlp竞赛项目及代码汇总、中文字符数据、speech-aligner: 从“人声语音”及其“语言文本”产生音素级别时间对齐标注的工具、AmpliGraph: 知识图谱表示学习(Python)库：知识图谱概念链接预测、Scattertext 文本可视化(python)、语言/知识表示工具：BERT & ERNIE、中文对比英文自然语言处理NLP的区别综述、Synonyms中文近义词工具包、HarvestText领域自适应文本挖掘工具（新词发现-情感分析-实体链接等）、word2word：(Python)方便易用的多语言词-词对集：62种语言/3,564个多语言对、语音识别语料生成工具：从具有音频/字幕的在线视频创建自动语音识别(ASR)语料库、构建医疗实体识别的模型（包含词典和语料标注）、单文档非监督的关键词抽取、Kashgari中使用gpt-2语言模型、开源的金融投资数据提取工具、文本自动摘要库TextTeaser: 仅支持英文、人民日报语料处理工具集、一些关于自然语言的基本模型、基于14W歌曲知识库的问答尝试--功能包括歌词接龙and已知歌词找歌曲以及歌曲歌手歌词三角关系的问答、基于Siamese bilstm模型的相似句子判定模型并提供训练数据集和测试数据集、用Transformer编解码模型实现的根据Hacker News文章标题自动生成评论、用BERT进行序列标记和文本分类的模板代码、LitBank：NLP数据集——支持自然语言处理和计算人文学科任务的100部带标记英文小说语料、百度开源的基准信息抽取系统、虚假新闻数据集、Facebook: LAMA语言模型分析，提供Transformer-XL/BERT/ELMo/GPT预训练语言模型的统一访问接口、CommonsenseQA：面向常识的英文QA挑战、中文知识图谱资料、数据及工具、各大公司内部里大牛分享的技术文档 PDF 或者 PPT、自然语言生成SQL语句（英文）、中文NLP数据增强（EDA）工具、英文NLP数据增强工具 、基于医药知识图谱的智能问答系统、京东商品知识图谱、基于mongodb存储的军事领域知识图谱问答项目、基于远监督的中文关系抽取、语音情感分析、中文ULMFiT-情感分析-文本分类-语料及模型、一个拍照做题程序、世界各国大规模人名库、一个利用有趣中文语料库 qingyun 训练出来的中文聊天机器人、中文聊天机器人seqGAN、省市区镇行政区划数据带拼音标注、教育行业新闻语料库包含自动文摘功能、开放了对话机器人-知识图谱-语义理解-自然语言处理工具及数据、中文知识图谱：基于百度百科中文页面-抽取三元组信息-构建中文知识图谱、masr: 中文语音识别-提供预训练模型-高识别率、Python音频数据增广库、中文全词覆盖BERT及两份阅读理解数据、ConvLab：开源多域端到端对话系统平台、中文自然语言处理数据集、基于最新版本rasa搭建的对话系统、基于TensorFlow和BERT的管道式实体及关系抽取、一个小型的证券知识图谱/知识库、复盘所有NLP比赛的TOP方案、OpenCLaP：多领域开源中文预训练语言模型仓库、UER：基于不同语料+编码器+目标任务的中文预训练模型仓库、中文自然语言处理向量合集、基于金融-司法领域(兼有闲聊性质)的聊天机器人、g2pC：基于上下文的汉语读音自动标记模块、Zincbase 知识图谱构建工具包、诗歌质量评价/细粒度情感诗歌语料库、快速转化「中文数字」和「阿拉伯数字」、百度知道问答语料库、基于知识图谱的问答系统、jieba_fast 加速版的jieba、正则表达式教程、中文阅读理解数据集、基于BERT等最新语言模型的抽取式摘要提取、Python利用深度学习进行文本摘要的综合指南、知识图谱深度学习相关资料整理、维基大规模平行文本语料、StanfordNLP 0.2.0：纯Python版自然语言处理包、NeuralNLP-NeuralClassifier：腾讯开源深度学习文本分类工具、端到端的封闭域对话系统、中文命名实体识别：NeuroNER vs. BertNER、新闻事件线索抽取、2019年百度的三元组抽取比赛：“科学空间队”源码、基于依存句法的开放域文本知识三元组抽取和知识库构建、中文的GPT2训练代码、ML-NLP - 机器学习(Machine Learning)NLP面试中常考到的知识点和代码实现、nlp4han:中文自然语言处理工具集(断句/分词/词性标注/组块/句法分析/语义分析/NER/N元语法/HMM/代词消解/情感分析/拼写检查、XLM：Facebook的跨语言预训练语言模型、用基于BERT的微调和特征提取方法来进行知识图谱百度百科人物词条属性抽取、中文自然语言处理相关的开放任务-数据集-当前最佳结果、CoupletAI - 基于CNN+Bi-LSTM+Attention 的自动对对联系统、抽象知识图谱、MiningZhiDaoQACorpus - 580万百度知道问答数据挖掘项目、brat rapid annotation tool: 序列标注工具、大规模中文知识图谱数据：1.4亿实体、数据增强在机器翻译及其他nlp任务中的应用及效果、allennlp阅读理解:支持多种数据和模型、PDF表格数据提取工具 、 Graphbrain：AI开源软件库和科研工具，目的是促进自动意义提取和文本理解以及知识的探索和推断、简历自动筛选系统、基于命名实体识别的简历自动摘要、中文语言理解测评基准，包括代表性的数据集&基准模型&语料库&排行榜、树洞 OCR 文字识别 、从包含表格的扫描图片中识别表格和文字、语声迁移、Python口语自然语言处理工具集(英文)、 similarity：相似度计算工具包，java编写、海量中文预训练ALBERT模型 、Transformers 2.0 、基于大规模音频数据集Audioset的音频增强 、Poplar：网页版自然语言标注工具、图片文字去除，可用于漫画翻译 、186种语言的数字叫法库、Amazon发布基于知识的人-人开放领域对话数据集 、中文文本纠错模块代码、繁简体转换 、 Python实现的多种文本可读性评价指标、类似于人名/地名/组织机构名的命名体识别数据集 、东南大学《知识图谱》研究生课程(资料)、. 英文拼写检查库 、 wwsearch是企业微信后台自研的全文检索引擎、CHAMELEON：深度学习新闻推荐系统元架构 、 8篇论文梳理BERT相关模型进展与反思、DocSearch：免费文档搜索引擎、 LIDA：轻量交互式对话标注工具 、aili - the fastest in-memory index in the East 东半球最快并发索引 、知识图谱车音工作项目、自然语言生成资源大全 、中日韩分词库mecab的Python接口库、中文文本摘要/关键词提取、汉字字符特征提取器 (featurizer)，提取汉字的特征（发音特征、字形特征）用做深度学习的特征、中文生成任务基准测评 、中文缩写数据集、中文任务基准测评 - 代表性的数据集-基准(预训练)模型-语料库-baseline-工具包-排行榜、PySS3：面向可解释AI的SS3文本分类器机器可视化工具 、中文NLP数据集列表、COPE - 格律诗编辑程序、doccano：基于网页的开源协同多语言文本标注工具 、PreNLP：自然语言预处理库、简单的简历解析器，用来从简历中提取关键信息、用于中文闲聊的GPT2模型：GPT2-chitchat、基于检索聊天机器人多轮响应选择相关资源列表(Leaderboards、Datasets、Papers)、(Colab)抽象文本摘要实现集锦(教程 、词语拼音数据、高效模糊搜索工具、NLP数据增广资源集、微软对话机器人框架 、 GitHub Typo Corpus：大规模GitHub多语言拼写错误/语法错误数据集、TextCluster：短文本聚类预处理模块 Short text cluster、面向语音识别的中文文本规范化、BLINK：最先进的实体链接库、BertPunc：基于BERT的最先进标点修复模型、Tokenizer：快速、可定制的文本词条化库、中文语言理解测评基准，包括代表性的数据集、基准(预训练)模型、语料库、排行榜、spaCy 医学文本挖掘与信息提取 、 NLP任务示例项目代码集、 python拼写检查库、chatbot-list - 行业内关于智能客服、聊天机器人的应用和架构、算法分享和介绍、语音质量评价指标(MOSNet, BSSEval, STOI, PESQ, SRMR)、 用138GB语料训练的法文RoBERTa预训练语言模型 、BERT-NER-Pytorch：三种不同模式的BERT中文NER实验、无道词典 - 有道词典的命令行版本，支持英汉互查和在线查询、2019年NLP亮点回顾、 Chinese medical dialogue data 中文医疗对话数据集 、最好的汉字数字(中文数字)-阿拉伯数字转换工具、 基于百科知识库的中文词语多词义/义项获取与特定句子词语语义消歧、awesome-nlp-sentiment-analysis - 情感分析、情绪原因识别、评价对象和评价词抽取、LineFlow：面向所有深度学习框架的NLP数据高效加载器、中文医学NLP公开资源整理 、MedQuAD：(英文)医学问答数据集、将自然语言数字串解析转换为整数和浮点数、Transfer Learning in Natural Language Processing (NLP) 、面向语音识别的中文/英文发音辞典、Tokenizers：注重性能与多功能性的最先进分词器、CLUENER 细粒度命名实体识别 Fine Grained Named Entity Recognition、 基于BERT的中文命名实体识别、中文谣言数据库、NLP数据集/基准任务大列表、nlp相关的一些论文及代码, 包括主题模型、词向量(Word Embedding)、命名实体识别(NER)、文本分类(Text Classificatin)、文本生成(Text Generation)、文本相似性(Text Similarity)计算等，涉及到各种与nlp相关的算法，基于keras和tensorflow 、Python文本挖掘/NLP实战示例、 Blackstone：面向非结构化法律文本的spaCy pipeline和NLP模型通过同义词替换实现文本“变脸” 、中文 预训练 ELECTREA 模型: 基于对抗学习 pretrain Chinese Model 、albert-chinese-ner - 用预训练语言模型ALBERT做中文NER 、基于GPT2的特定主题文本生成/文本增广、开源预训练语言模型合集、多语言句向量包、编码、标记和实现：一种可控高效的文本生成方法、 英文脏话大列表 、attnvis：GPT2、BERT等transformer语言模型注意力交互可视化、CoVoST：Facebook发布的多语种语音-文本翻译语料库，包括11种语言(法语、德语、荷兰语、俄语、西班牙语、意大利语、土耳其语、波斯语、瑞典语、蒙古语和中文)的语音、文字转录及英文译文、Jiagu自然语言处理工具 - 以BiLSTM等模型为基础，提供知识图谱关系抽取 中文分词 词性标注 命名实体识别 情感分析 新词发现 关键词 文本摘要 文本聚类等功能、用unet实现对文档表格的自动检测，表格重建、NLP事件提取文献资源列表 、 金融领域自然语言处理研究资源大列表、CLUEDatasetSearch - 中英文NLP数据集：搜索所有中文NLP数据集，附常用英文NLP数据集 、medical_NER - 中文医学知识图谱命名实体识别 、(哈佛)讲因果推理的免费书、知识图谱相关学习资料/数据集/工具资源大列表、Forte：灵活强大的自然语言处理pipeline工具集 、Python字符串相似性算法库、PyLaia：面向手写文档分析的深度学习工具包、TextFooler：针对文本分类/推理的对抗文本生成模块、Haystack：灵活、强大的可扩展问答(QA)框架、中文关键短语抽取工具"
+advanced-java,doocs,Java,78837,19285,1,2688,False,False,True,True,😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
+servers,modelcontextprotocol,TypeScript,78660,9528,321,452,True,True,True,True,Model Context Protocol Servers
+github-readme-stats,anuraghazra,JavaScript,78355,30461,248,2046,True,True,True,True,:zap: Dynamically generated stats for your github readmes
+browser-use,browser-use,Python,78336,9279,243,471,False,False,True,True,🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+vite,vitejs,TypeScript,78132,7824,619,2125,True,True,True,True,Next generation frontend tooling. It's fast!
+hoppscotch,hoppscotch,TypeScript,77855,5577,651,2369,True,True,True,True,"Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia"
+fzf,junegunn,Go,77774,2692,324,4497,False,False,True,True,:cherry_blossom: A command-line fuzzy finder
+netdata,netdata,C,77739,6334,250,4624,False,False,True,True,"The fastest path to AI-powered full stack observability, even for lean teams."
+models,tensorflow,Python,77686,45297,1275,3662,True,True,True,True,Models and examples built with TensorFlow
+gpt4all,nomic-ai,C++,77123,8316,753,1054,False,True,True,True,GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
+LeetCodeAnimation,MisterBooo,Java,76712,14001,20,2627,False,True,False,True,Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
+Font-Awesome,FortAwesome,JavaScript,76331,12252,312,5111,True,True,True,True,"The iconic SVG, font, and CSS toolkit"
+code-server,coder,TypeScript,76212,6512,175,2543,False,False,True,False,VS Code in the browser
+elasticsearch,elastic,Java,76062,25796,5492,5850,False,True,True,True,"Free and Open Source, Distributed, RESTful Search Engine"
+Best-websites-a-programmer-should-visit,sdmg15,,75653,8576,1014,3267,True,True,False,True,:link: Some useful websites for programmers.
+d2l-zh,d2l-ai,Python,75648,12125,122,3097,False,False,True,True,《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
+json-server,typicode,JavaScript,75629,7271,707,4462,False,True,True,True,Get a full fake REST API with zero coding in less than 30 seconds (seriously)
+zed,zed-industries,Rust,75334,6944,3437,1820,True,True,True,True,"Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter."
+PayloadsAllTheThings,swisskyrepo,Python,75201,16624,14,3406,False,True,True,True,A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+llm-course,mlabonne,,75082,8651,77,972,False,False,False,True,Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
+localsend,localsend,Dart,74918,3991,876,1156,False,True,True,True,An open-source cross-platform alternative to AirDrop
+nest,nestjs,TypeScript,74554,8212,66,3296,True,True,True,True,"A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀"
+Ventoy,ventoy,C,74492,4696,902,2167,False,False,True,True,A new bootable USB solution.
+union,unionlabs,Rust,74333,3845,184,1004,False,True,True,True,"The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance."
+Stirling-PDF,Stirling-Tools,TypeScript,74188,6309,410,1113,False,True,True,True,#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
+awesome-vue,vuejs,,73638,9504,65,3770,False,False,True,True,🎉 A curated list of awesome things related to Vue.js
+ragflow,infiniflow,Python,73266,8121,2974,795,False,False,True,True,RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
+redis,redis,C,72926,24487,2739,6173,True,True,True,True,"For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine."
+awesome-public-datasets,awesomedata,,72757,11129,135,4104,False,False,False,True,A topic-centric list of HQ open datasets.
+the-algorithm,twitter,Scala,72717,13263,506,1055,False,False,False,True,Source code for the X Recommendation Algorithm
+sherlock,sherlock-project,Python,72688,8621,197,2609,False,False,True,False,Hunt down social media accounts by username across social networks
+tesseract,tesseract-ocr,C++,72387,10501,462,4203,False,True,True,True,Tesseract Open Source OCR Engine (main repository)
+stable-diffusion,CompVis,Jupyter Notebook,72357,10578,612,1284,False,False,False,True,A latent text-to-image diffusion model
+lazygit,jesseduffield,Go,72319,2504,894,2828,False,True,True,True,simple terminal UI for git commands
+lobehub,lobehub,TypeScript,72277,14619,794,1000,True,True,True,True,"The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction."
+Front-End-Checklist,thedaviddias,,72135,6618,1,3043,True,True,True,True,🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+grafana,grafana,TypeScript,72126,13446,3739,4448,True,True,True,True,"The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. "
+awesome-react,enaqx,,71965,7502,16,4210,False,False,False,True,A collection of awesome things regarding React ecosystem
+screenshot-to-code,abi,TypeScript,71677,8849,136,822,False,False,True,True,Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
+awesome-machine-learning,josephmisiti,Python,71651,15304,13,4231,False,False,False,True,"A curated list of awesome Machine Learning frameworks, libraries and software."
+cpython,python,Python,71494,34078,9215,3290,False,False,True,True,The Python programming language
+moby,moby,Go,71470,18907,3784,4774,False,True,True,True,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+openai-cookbook,openai,Jupyter Notebook,71439,11985,103,1436,False,True,True,True,Examples and guides for using the OpenAI API
+imgui,ocornut,C++,71330,11542,1208,4226,False,False,True,False,Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+cs-self-learning,PKUFlyingPig,HTML,71289,7832,146,1578,False,False,True,True,计算机自学指南
+strapi,strapi,TypeScript,71282,9479,747,3790,True,True,True,True,"🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first."
+flask,pallets,Python,71153,16709,3,5793,False,False,True,True,The Python micro framework for building web applications.
+PaddleOCR,PaddlePaddle,Python,70773,9827,293,2108,False,False,True,True,"Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages."
+cs-video-courses,Developer-Y,,70717,9451,3,3402,False,True,False,True,List of Computer Science courses with video lectures.
+protobuf,protocolbuffers,C++,70682,16028,235,4190,True,True,True,True,Protocol Buffers - Google's data interchange format
+reveal.js,hakimel,JavaScript,70557,16807,885,5365,False,False,True,True,The HTML Presentation Framework
+superset,apache,TypeScript,70537,16672,1128,3860,True,True,True,True,Apache Superset is a Data Visualization and Data Exploration Platform
+obs-studio,obsproject,C,70370,9025,1078,4519,False,True,True,True,OBS Studio - Free and open source software for live streaming and screen recording
+Prompt-Engineering-Guide,dair-ai,MDX,70334,7504,246,1156,False,False,True,True,"🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents."
+vllm,vllm-project,Python,70292,13445,3369,1101,True,True,True,True,A high-throughput and memory-efficient inference and serving engine for LLMs
+gpt_academic,binary-husky,Python,70098,8399,298,1062,False,False,True,True,"为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。"
+caddy,caddyserver,Go,69928,4639,262,4049,False,False,True,True,Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+skills,anthropics,Python,69744,7044,273,145,False,False,False,True,Public repository for Agent Skills
+awesome-cpp,fffaraz,,69731,8220,419,4230,True,True,True,True,"A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff."
+spec-kit,github,Python,69672,6014,619,176,True,True,True,True,💫 Toolkit to help you get started with Spec-Driven Development
+swift,swiftlang,C++,69668,10657,8674,3766,False,True,True,True,The Swift Programming Language
+tabby,Eugeny,TypeScript,68891,3866,2563,3340,True,False,True,True,A terminal for a more modern age
+SecLists,danielmiessler,PHP,68830,24902,11,5109,False,True,True,True,"SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more."
+node,base,Go,68743,3213,32,1109,False,True,True,True,Everything required to run your own Base node
+act,nektos,Go,68735,1847,286,2599,False,True,True,True,Run your GitHub Actions locally 🚀
+express,expressjs,JavaScript,68692,22521,181,6076,False,False,True,True,"Fast, unopinionated, minimalist web framework for node."
+awesome-scalability,binhnguyennus,,68595,6823,19,2971,True,True,True,True,"The Patterns of Scalable, Reliable, and Performant Large-Scale Systems"
+AppFlowy,AppFlowy-IO,Dart,68068,4892,936,1704,True,False,True,True,"Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative."
+ansible,ansible,Python,67987,24213,834,5093,False,False,True,True,"Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com."
+OpenHands,OpenHands,Python,67822,8447,325,703,True,True,True,True,🙌 OpenHands: AI-Driven Development
+LlamaFactory,hiyouga,Python,67258,8180,903,993,False,False,True,True,Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
+Chart.js,chartjs,JavaScript,67139,11993,527,4716,False,False,True,True,Simple HTML5 Charts using the <canvas> tag
+claude-code,anthropics,Shell,66788,5169,6259,356,False,False,True,True,"Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+anime,juliangarnier,JavaScript,66493,4443,89,3624,False,True,True,True,JavaScript animation engine
+awesome-courses,prakhar1989,,66404,8326,59,4108,False,True,False,True,:books: List of awesome university courses for learning Computer Science!
+33-js-concepts,leonardomso,JavaScript,66239,9191,0,2720,True,True,True,True,📜 33 JavaScript concepts every developer should know.
+webpack,webpack,JavaScript,65943,9243,208,5089,False,True,True,True,"A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through ""loaders"", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff."
+annotated_deep_learning_paper_implementations,labmlai,Python,65737,6610,29,1999,False,False,True,True,"🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠"
+gpt4free,xtekky,Python,65710,13667,7,1052,True,True,True,True,The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
+echarts,apache,TypeScript,65706,19842,1799,4700,False,True,True,True,"Apache ECharts is a powerful, interactive charting and data visualization library for browser"
+javascript-questions,lydiahallie,,65261,9234,48,2439,False,False,False,True,"A long list of (advanced) JavaScript questions, and their explanations :sparkles:  "
+ChinaTextbook,TapXWorld,Roff,65089,14516,92,2232,False,False,False,True,所有小初高、大学PDF教材。
+Java,TheAlgorithms,Java,65040,20972,38,3500,False,True,True,True,All Algorithms implemented in Java
+scikit-learn,scikit-learn,Python,65020,26691,2131,5660,True,True,True,True,scikit-learn: machine learning in Python
+awesome-nodejs,sindresorhus,,64959,6180,30,4236,False,True,True,True,:zap: Delightful Node.js packages and resources
+interviews,kdn251,Java,64855,12938,118,3286,False,False,False,True,Everything you need to know to get the job.
+design-resources-for-developers,bradtraversy,,64808,11969,5,2110,False,True,True,True,"Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more"
+nocode,kelseyhightower,Dockerfile,64722,4786,4636,2929,False,True,False,True,The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+Apollo-11,chrislgarry,Assembly,64579,7370,125,4335,False,True,True,True,Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
+ghidra,NationalSecurityAgency,Java,64357,7135,1851,2542,False,True,True,True,Ghidra is a software reverse engineering (SRE) framework
+localstack,localstack,Python,64353,4536,365,3398,True,False,True,True,💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
+MetaGPT,FoundationAgents,Python,64176,8063,80,960,False,False,True,True,"🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming"
+docusaurus,facebook,TypeScript,63782,9741,357,3161,True,True,True,True,Easy to maintain open source documentation websites.
+keras,keras-team,Python,63758,19693,285,3976,False,True,True,True,Deep Learning for humans
+socket.io,socketio,TypeScript,62863,10138,203,5818,False,True,True,True,Realtime application framework (Node.JS server)
+AFFiNE,toeverything,TypeScript,62844,4379,575,1293,False,False,True,True,"There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. "
+resume.github.com,resume,JavaScript,62786,1362,71,5487,False,False,False,True,Resumes generated using the GitHub informations
+prometheus,prometheus,Go,62691,10184,762,4830,True,True,True,True,The Prometheus monitoring system and time series database.
+alacritty,alacritty,Rust,62413,3300,333,3649,False,True,True,True,"A cross-platform, OpenGL terminal emulator."
+open-interpreter,openinterpreter,Python,62141,5344,295,946,False,False,True,True,A natural language interface for computers
+nocodb,nocodb,TypeScript,61996,4622,581,3029,False,False,True,True,🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
+sway,FuelLabs,Rust,61944,5430,884,1851,False,False,True,True,🌴 Empowering everyone to build reliable and efficient smart contracts.
+rustlings,rust-lang,Rust,61816,11142,90,3805,False,True,True,True,:crab: Small exercises to get you used to reading and writing Rust code!
+nerd-fonts,ryanoasis,CSS,61667,3868,58,4089,True,True,True,True,"Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more"
+traefik,traefik,Go,61634,5830,762,3806,True,True,True,True,The Cloud Native Application Proxy
+lodash,lodash,JavaScript,61612,7123,111,5061,False,False,True,True,"A modern JavaScript utility library delivering modularity, performance, & extras."
+uBlock,gorhill,JavaScript,61530,3940,17,3971,False,True,True,True,uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+redux,reduxjs,TypeScript,61441,15144,43,3913,True,True,True,True,A JS library for predictable global state management
+tldr,tldr-pages,Markdown,61226,5075,219,4451,False,True,True,True,📚 Collaborative cheatsheets for console commands
+atom,atom,JavaScript,61009,17299,994,5138,True,True,True,True,:atom: The hackable text editor
+architect-awesome,xingshaocheng,,60828,17807,64,2871,False,False,False,True,后端架构师技术图谱
+Front-end-Developer-Interview-Questions,h5bp,Nunjucks,60792,11087,49,5118,False,False,True,True,"A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore."
+codex,openai,Rust,60333,7949,1238,307,False,False,True,True,Lightweight coding agent that runs in your terminal
+leetcode-master,youngyangyang04,Shell,60326,12337,239,2254,False,False,False,True,《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀 
+OpenBB,OpenBB-finance,Python,60279,5874,58,1882,True,False,True,True,"Financial data platform for analysts, quants and AI agents."
+minio,minio,Go,60242,7004,80,4048,True,True,True,True,"MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license."
+markdown-here,adam-p,JavaScript,60140,11142,316,5025,False,True,True,True,"Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending."
+crawl4ai,unclecode,Python,60089,6123,251,646,True,False,True,True,"🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN"
+openpilot,commaai,Python,60068,10629,245,3369,False,False,True,True,"openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars."
+ripgrep,BurntSushi,Rust,59876,2395,113,3627,False,False,True,True,ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+jquery,jquery,JavaScript,59844,20495,99,6161,True,True,True,True,jQuery JavaScript Library
+scrapy,scrapy,Python,59722,11238,641,5836,True,True,True,True,"Scrapy, a fast high-level web crawling & scraping framework for Python."
+spring-framework,spring-projects,Java,59614,38915,353,5547,False,True,True,True,Spring Framework
+nuxt,nuxt,TypeScript,59566,5525,930,3398,False,False,True,True,The Full-Stack Vue Framework.
+pathway,pathwaycom,Python,59465,1598,30,1175,True,True,True,True,"Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG."
+drawio-desktop,jgraph,JavaScript,59434,5589,56,3186,True,False,True,True,Official electron build of draw.io
+Real-Time-Voice-Cloning,CorentinJ,Python,59340,9406,169,2456,False,False,True,True,Clone a voice in 5 seconds to generate arbitrary speech in real-time
+shadowsocks-windows,shadowsocks,C#,59241,16318,199,4779,False,True,True,True,A C# port of shadowsocks
+llama,meta-llama,Python,59140,9826,515,1096,True,True,True,True,Inference code for Llama models
+git,git,C,59092,27500,341,6415,True,False,True,True,Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+angular.js,angular,JavaScript,58977,27274,461,5883,True,True,True,True,AngularJS - HTML enhanced for web apps!
+awesome-flutter,Solido,Dart,58952,6856,20,3205,False,True,True,True,"An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more."
+Magisk,topjohnwu,Rust,58694,16733,43,3446,False,False,True,True,The Magic Mask for Android
+ladybird,LadybirdBrowser,C++,58512,2666,654,625,True,True,True,True,Truly independent web browser
+awesome-chatgpt-prompts-zh,PlexPt,,58306,13588,42,1160,False,False,False,True,ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
+rails,rails,Ruby,58196,22175,1467,6518,True,True,True,True,Ruby on Rails
+mkcert,FiloSottile,Go,58023,3044,165,2791,False,False,True,True,A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+cline,cline,TypeScript,57945,5755,745,588,True,True,True,True,"Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way."
+30-Days-Of-Python,Asabeneh,Python,57923,11084,89,2278,False,False,True,True,The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
+html5-boilerplate,h5bp,JavaScript,57391,12324,15,5864,False,False,True,True,"A professional front-end template for building fast, robust, and adaptable web apps or sites."
+fuel-core,FuelLabs,Rust,57365,2859,183,1996,False,True,True,True,Rust full node implementation of the Fuel v2 protocol.
+FFmpeg,FFmpeg,C,57160,13481,3,5420,False,True,False,True,Mirror of https://git.ffmpeg.org/ffmpeg.git
+DeepLearning-500-questions,scutan90,JavaScript,57146,15974,121,2789,False,False,False,True,深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.06
+bat,sharkdp,Rust,57117,1457,342,2856,False,True,True,True,A cat(1) clone with wings.
+private-gpt,zylon-ai,Python,57105,7613,290,1019,False,False,True,True,"Interact with your documents using the power of GPT, 100% privately, no data leaks"
+zustand,pmndrs,TypeScript,56988,1946,4,2503,False,True,True,True,🐻 Bear necessities for state management in React
+memos,usememos,Go,56913,4116,65,1529,False,False,True,True,"An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees."
+yolov5,ultralytics,Python,56815,17429,44,2098,False,True,True,True,YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite
+astro,withastro,TypeScript,56810,3148,244,1796,False,True,True,True,The web framework for content-driven websites. ⭐️ Star to support our work!
+you-get,soimort,Python,56735,9794,380,4926,False,True,True,True,:arrow_double_down: Dumb downloader that scrapes the web
+react-router,remix-run,TypeScript,56229,10825,155,4291,True,True,True,True,Declarative routing for React
+llm-app,pathwaycom,Jupyter Notebook,56117,1331,8,941,True,True,True,True,"Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more."
+face_recognition,ageitgey,Python,56116,13713,833,3269,False,True,True,True,The world's simplest facial recognition api for Python and the command line
+daytona,daytonaio,TypeScript,56097,5019,287,739,True,True,True,True,Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
+pocketbase,pocketbase,Go,56088,3113,21,1320,False,True,True,True,Open Source realtime backend in 1 file
+gatsby,gatsbyjs,JavaScript,55956,10237,349,3921,True,True,True,True,"The best React-based framework with performance, scalability and security built in."
+meilisearch,meilisearch,Rust,55906,2372,300,2854,True,True,True,True,A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
+leetcode,azl397985856,JavaScript,55805,9449,10,2878,False,True,True,True,LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
+pi-hole,pi-hole,Shell,55683,2974,57,4269,False,True,True,True,A black hole for Internet advertisements
+awesome-rust,rust-unofficial,Rust,55615,3175,11,4230,False,True,True,True,A curated list of Rust code and resources.
+rclone,rclone,Go,55545,4904,1154,4353,True,True,True,True,"""rsync for cloud storage"" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files"
+rich,Textualize,Python,55478,2029,300,2288,True,True,True,True,Rich is a Python library for rich text and beautiful formatting in the terminal.
+awesome-android-ui,wasabeef,,55410,10266,38,4070,True,False,True,True,A curated list of awesome Android UI/UX libraries
+project-layout,golang-standards,Makefile,55360,5440,95,3079,False,False,False,True,Standard Go Project Layout
+gpt-engineer,AntonOsika,Python,55196,7327,66,1022,False,False,True,True,CLI platform to experiment with codegen. Precursor to: https://lovable.dev
+github-cheat-sheet,tiimgreen,,55133,5397,41,4325,False,True,True,True,A list of cool features of Git and GitHub.
+GPT-SoVITS,RVC-Boss,Python,55005,6008,850,761,False,False,True,True,1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
+vaultwarden,dani-garcia,Rust,54982,2553,28,2918,False,False,True,True,"Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs"
+faceswap,deepfakes,Python,54967,13427,53,2979,True,False,True,True,Deepfakes Software For All
+hackingtool,Z4nzu,Python,54956,5992,85,2135,False,False,True,True,ALL IN ONE Hacking Tool For Hackers
+appwrite,appwrite,TypeScript,54756,4991,964,2503,False,True,True,True,"Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more"
+anything-llm,Mintplex-Labs,JavaScript,54551,5871,274,986,False,True,True,True,"The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more."
+autogen,microsoft,Python,54540,8218,587,911,True,True,True,True,A programming framework for agentic AI
+OpenManus,FoundationAgents,Python,54467,9533,533,345,True,False,True,True,"No fortress, purely open ground.  OpenManus is Coming."
+ChatGPT,lencx,Rust,54377,6219,918,1165,False,False,False,True,"🔮 ChatGPT Desktop Application (Mac, Windows and Linux)"
+MinerU,opendatalab,Python,54362,4514,182,716,False,False,True,True,Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
+element,ElemeFE,Vue,54208,14562,2966,3451,False,False,True,True,A Vue.js 2.0 UI Toolkit for Web
+starship,starship,Rust,54096,2374,976,2510,True,True,True,True,"☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!"
+maybe,maybe-finance,Ruby,53988,5212,0,774,False,True,True,True,The personal finance app for everyone
+marktext,marktext,JavaScript,53833,3985,1389,3016,False,True,True,True,"📝A simple and elegant markdown editor, available for Linux, macOS and Windows."
+normalize.css,necolas,CSS,53785,10475,73,5400,False,True,False,True,A modern alternative to CSS resets
+requests,psf,Python,53734,9745,303,5479,False,False,True,True,"A simple, yet elegant, HTTP library."
+gitea,go-gitea,Go,53700,6384,2837,3392,True,True,True,True,"Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD"
+joplin,laurent22,TypeScript,53427,5718,640,3315,False,True,True,True,"Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS."
+segment-anything,facebookresearch,Jupyter Notebook,53411,6229,592,1058,True,True,False,True,"The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model."
+dive,wagoodman,Go,53331,1942,193,2834,False,False,True,True,A tool for exploring each layer in a docker image
+ultralytics,ultralytics,Python,53277,10200,363,1251,False,True,True,True,Ultralytics YOLO 🚀
+nanoGPT,karpathy,Python,53176,8998,331,1144,False,False,False,True,"The simplest, fastest repository for training/finetuning medium-sized GPTs."
+docling,docling-project,Python,53013,3600,840,585,True,True,True,True,Get your documents ready for gen AI
+core,vuejs,TypeScript,52984,9054,1006,2804,False,False,True,True,"🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+trackerslist,ngosang,,52921,6649,6,3583,False,False,True,True,Updated list of public BitTorrent trackers
+powerlevel10k,romkatv,Shell,52864,2396,135,2546,False,False,False,True,A Zsh theme
+material-design-icons,google,,52861,9733,389,4146,False,False,True,True,Material Design icons by Google (Material Symbols)
+pdf.js,mozilla,JavaScript,52822,10584,468,5408,True,False,True,True,PDF Reader in JavaScript
+ImHex,WerWolv,C++,52613,2341,324,1922,True,True,True,True,"🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM."
+first-contributions,firstcontributions,,52608,98063,291,3434,False,False,True,True,🚀✨ Help beginners to contribute to open source projects
+ionic-framework,ionic-team,TypeScript,52351,13393,639,4560,True,False,True,True,"A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript."
+kotlin,JetBrains,Kotlin,52304,6215,215,5114,True,False,True,True,The Kotlin Programming Language. 
+unsloth,unslothai,Python,52186,4315,958,807,True,True,True,True,"Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM."
+Docker-OSX,sickcodes,Shell,52153,2899,415,2081,False,False,True,True,Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
+Ghost,TryGhost,JavaScript,51810,11324,367,4669,False,False,True,True,"Independent technology for modern publishing, memberships, subscriptions and newsletters."
+prettier,prettier,JavaScript,51549,4655,1432,3363,False,True,True,True,Prettier is an opinionated code formatter.
+etcd,etcd-io,Go,51507,10319,214,4605,False,True,True,True,Distributed reliable key-value store for the most critical data of a distributed system
+grok-1,xai-org,Python,51489,8493,127,699,True,False,False,True,Grok open release
+guava,google,Java,51472,11147,720,4279,False,True,True,True,Google core libraries for Java
+PowerShell,PowerShell,C#,51427,8167,1387,3684,True,False,True,True,PowerShell for every system!
+jekyll,jekyll,Ruby,51427,10305,241,6326,False,False,True,True,:globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
+superpowers,obra,Shell,51407,3879,128,127,False,False,True,True,An agentic skills framework & software development methodology that works.
+n8n-workflows,Zie619,Python,51400,6454,17,276,False,False,True,True,all of the workflows of n8n i could find (also from the site itself)
+typst,typst,Rust,51286,1463,1138,2334,False,True,True,True,A markup-based typesetting system that is powerful and easy to learn.
+awesome-ios,vsouza,Swift,51268,6950,11,4237,True,False,True,True,"A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects "
+Free-Certifications,cloudcommunity,,51266,3411,66,2024,False,False,True,True,A curated list of free courses with certifications. Also available at https://free-certifications.com/
+Semantic-UI,Semantic-Org,JavaScript,51152,4909,1074,4694,False,True,True,True,Semantic is a UI component framework based around useful principles from natural language.
+v2rayNG,2dust,Kotlin,50976,6930,18,2467,False,False,True,True,"A V2Ray client for Android, support Xray core and v2fly core"
+chinese-poetry,chinese-poetry,JavaScript,50948,10301,130,3452,False,False,True,True,"The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。"
+DefinitelyTyped,DefinitelyTyped,TypeScript,50938,30565,697,4879,False,False,True,True,The repository for high quality TypeScript type definitions.
+go-ethereum,ethereum,Go,50801,21777,388,4433,False,False,True,True,Go implementation of the Ethereum protocol
+Motrix,agalwood,JavaScript,50793,4821,772,2615,True,True,True,True,A full-featured download manager.
+coolify,coollabsio,PHP,50653,3600,619,1845,True,True,True,True,"An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers."
+termux-app,termux,Java,50608,6012,487,3767,False,False,True,True,Termux - a terminal emulator application for Android OS extendible by variety of packages.
+ai-agents-for-beginners,microsoft,Jupyter Notebook,50566,17697,10,443,True,False,True,True,12 Lessons to Get Started Building AI Agents
+awesome-wechat-weapp,justjavac,,50494,9018,2,3431,False,False,False,True,微信小程序开发资源汇总 :100:
+hiring-without-whiteboards,poteto,JavaScript,50433,3885,31,3258,True,True,True,True,⭐️  Companies that don't have a broken hiring process
+professional-programming,charlax,Python,50360,3958,3,3752,False,True,False,True,A collection of learning resources for curious software engineers
+bulma,jgthms,CSS,50056,3910,517,3674,False,False,True,True,Modern CSS framework based on Flexbox
+windows,dockur,Shell,49955,4016,95,762,False,False,True,True,Windows inside a Docker container.
+lazydocker,jesseduffield,Go,49695,1574,261,2464,False,True,True,True,The lazier way to manage everything docker
+mastodon,mastodon,Ruby,49646,7395,4400,3645,True,True,True,True,"Your self-hosted, globally interconnected microblogging community"
+100-Days-Of-ML-Code,Avik-Jain,,49640,11310,67,2781,True,True,True,True,100 Days of ML Coding
+cypress,cypress-io,TypeScript,49572,3401,1257,4000,True,True,True,True,"Fast, easy and reliable testing for anything that runs in a browser."
+MoneyPrinterTurbo,harry0703,Python,49484,7024,216,705,False,False,True,True,利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+hacker-scripts,NARKOZ,JavaScript,49410,6677,68,3737,False,False,False,True,Based on a true story
+Flowise,FlowiseAI,TypeScript,49099,23714,783,1051,True,True,True,True,"Build AI Agents, Visually"
+alist,AlistGo,Go,49010,7988,576,1878,True,True,True,True,"🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。"
+odoo,odoo,Python,49005,31476,9325,4295,False,True,True,True,Odoo. Open Source Apps To Grow Your Business.
+json,nlohmann,C++,48888,7310,100,4608,False,False,True,True,JSON for Modern C++
+lx-music-desktop,lyswhut,TypeScript,48812,6645,1084,2376,False,False,True,True,一个基于 Electron 的音乐软件
+open-source-ios-apps,dkhamsing,,48732,5724,0,4036,False,False,True,True,:iphone: Collaborative List of Open-Source iOS Apps
+huginn,huginn,Ruby,48690,4223,698,4724,False,False,True,True,Create agents that monitor and act on your behalf.  Your agents are standing by!
+dbeaver,dbeaver,Java,48678,4037,3226,3769,False,False,True,True,Free universal database tool and SQL client
+dayjs,iamkun,JavaScript,48543,2415,1193,2867,False,True,True,True,⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
+RxJava,ReactiveX,Java,48528,7605,20,4784,False,True,True,True,RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
+jellyfin,jellyfin,C#,48522,4419,819,2624,False,False,True,True,The Free Software Media System - Server Backend & API
+query,TanStack,TypeScript,48496,3702,141,2348,False,True,True,True,"🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query."
+algorithm-visualizer,algorithm-visualizer,JavaScript,48359,7579,78,3562,True,True,True,True,:fireworks:Interactive Online Platform that Visualizes Algorithms from Code
+julia,JuliaLang,Julia,48356,5736,4803,5413,False,True,True,True,The Julia Programming Language
+moment,moment,JavaScript,48066,7025,290,5464,False,True,True,True,"Parse, validate, manipulate, and display dates in javascript."
+pandas,pandas-dev,Python,47879,19653,3648,5653,False,False,True,True,"Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more"
+x64dbg,x64dbg,C++,47741,2671,583,3961,False,False,True,True,An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
+Fooocus,lllyasviel,Python,47693,7785,275,919,False,False,True,True,Focus on prompting and generating
+terraform,hashicorp,Go,47669,10218,1941,4355,False,False,True,True,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned."
+type-challenges,type-challenges,TypeScript,47662,5212,33072,2032,True,False,True,True,Collection of TypeScript type challenges with online judge
+big-list-of-naughty-strings,minimaxir,Python,47578,2164,108,3842,False,False,False,True,The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
+gogs,gogs,Go,47561,5080,956,4385,False,False,True,True,Gogs is a painless self-hosted Git service
+design-patterns-for-humans,kamranahmedse,,47540,5503,17,3284,False,False,True,True,An ultra-simplified explanation to design patterns
+htmx,bigskysoftware,JavaScript,47426,1567,659,2133,False,True,True,True,</> htmx - high power tools for HTML
+Projects,karan,,47395,10678,116,4608,False,True,False,True,:page_with_curl: A list of practical projects that anyone can solve in any programming language.
+open-source-mac-os-apps,serhii-londar,,47381,2451,133,3025,False,True,True,True,🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
+kubernetes-the-hard-way,kelseyhightower,,47364,15488,44,3509,False,True,False,True,Bootstrap Kubernetes the hard way. No scripts.
+mem0,mem0ai,Python,47345,5247,732,970,False,True,True,True,Universal memory layer for AI Agents
+jadx,skylot,Java,47289,5426,416,4715,True,True,True,True,Dex to Java decompiler
+winutil,ChrisTitusTech,PowerShell,47267,2492,18,1388,False,False,True,True,"Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates"
+expo,expo,TypeScript,47232,10958,827,3469,False,True,True,True,"An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web."
+awesome-java,akullpp,,47027,7631,3,4238,False,True,True,True,"A curated list of awesome frameworks, libraries and software for the Java programming language."
+llama_index,run-llama,Python,46986,6819,294,1200,True,True,True,True,LlamaIndex is the leading framework for building LLM-powered agents over your data.
+react,typescript-cheatsheets,JavaScript,46953,4283,1,2814,False,True,True,True,Cheatsheets for experienced React developers getting started with TypeScript
+serverless,serverless,JavaScript,46944,5740,1223,3952,True,True,True,True,"⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services."
+v2ray-core,v2ray,Go,46937,8894,9,3816,False,False,True,True,A platform for building proxies to bypass network restrictions.
+okhttp,square,Kotlin,46883,9262,85,4954,False,True,True,True,"Square’s meticulous HTTP client for the JVM, Android, and GraalVM."
+quill,slab,TypeScript,46843,3623,626,4946,False,False,True,True,Quill is a modern WYSIWYG editor built for compatibility and extensibility
+awesome-react-components,brillout,,46803,3707,20,3522,False,True,True,True,Curated List of React Components & Libraries.
+PythonDataScienceHandbook,jakevdp,Jupyter Notebook,46756,18719,230,3475,False,False,False,True,Python Data Science Handbook: full text in Jupyter Notebooks
+whisper.cpp,ggml-org,C++,46723,5207,1127,1237,False,False,True,True,Port of OpenAI's Whisper model in C/C++
+freqtrade,freqtrade,Python,46717,9750,40,3194,False,True,True,True,"Free, open source crypto trading bot"
+brew,Homebrew,Ruby,46607,10962,21,3632,False,True,True,True,🍺 The missing package manager for macOS (or Linux)
+chinese-independent-developer,1c7,,46601,3936,3,3068,False,False,True,True,👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
+pixijs,pixijs,TypeScript,46597,4953,306,4771,False,False,True,True,"The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer."
+TrendRadar,sansan0,Python,46342,22170,59,292,False,False,True,True,"⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。"
+discourse,discourse,Ruby,46328,8811,160,4781,False,True,True,True,"A platform for community discussion. Free, open, simple."
+Made-With-ML,GokuMohandas,Jupyter Notebook,46269,7257,24,2658,False,False,True,True,"Learn how to design, develop, deploy and iterate on production-grade ML applications."
+learn-regex,ziishaned,,46161,6219,64,3129,False,False,True,True,Learn regex the easy way
+30-Days-Of-JavaScript,Asabeneh,JavaScript,46076,10418,368,2245,False,False,True,True,"30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw"
+text-generation-webui,oobabooga,Python,46038,5884,2659,1151,False,False,True,True,"The definitive Web UI for local AI, with powerful features and easy setup."
+awesome-design-patterns,DovAmir,,46011,3208,20,2811,False,True,False,True,A curated list of software and architecture related design patterns.
+frontend-dev-bookmarks,dypsilon,,45985,5153,124,4620,False,True,False,True,Manually curated collection of resources for frontend web developers.
+metabase,metabase,Clojure,45933,6223,3991,4029,False,False,True,True,The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
+everything-claude-code,affaan-m,JavaScript,45877,5680,12,27,False,True,True,True,"Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner."
+ClickHouse,ClickHouse,C++,45859,8075,5467,3544,True,True,True,True,ClickHouse® is a real-time analytics database management system
+OpenCut,OpenCut-app,TypeScript,45843,4681,261,237,False,False,True,True,The open-source CapCut alternative
+ruff,astral-sh,Rust,45749,1769,1878,1284,True,True,True,True,"An extremely fast Python linter and code formatter, written in Rust."
+ai-hedge-fund,virattt,Python,45742,7989,51,442,False,False,True,True,An AI Hedge Fund Team
+Pake,tw93,Rust,45722,8997,2,1219,True,True,True,True,🤱🏻 Turn any webpage into a desktop app with one command.
+context7,upstash,TypeScript,45718,2184,120,324,False,False,True,True,Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
+acme.sh,acmesh-official,Shell,45694,5512,1349,3703,False,False,True,True,A pure Unix shell script ACME client for SSL / TLS certificate automation
+plane,makeplane,TypeScript,45611,3529,652,1183,True,True,True,True,"🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage."
+monaco-editor,microsoft,JavaScript,45579,3983,807,3538,False,True,True,True,A browser based code editor
+architecture-samples,android,Kotlin,45561,11856,216,3662,False,True,True,True,A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
+AI-For-Beginners,microsoft,Jupyter Notebook,45339,9215,5,1809,False,False,True,True,"12 Weeks, 24 Lessons, AI for All!"
+awesome-cheatsheets,LeCoupa,JavaScript,45330,6661,131,3019,False,False,False,True,"👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file."
+prisma,prisma,TypeScript,45311,2055,2482,2431,True,True,True,True,"Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB"
+AdminLTE,ColorlibHQ,CSS,45297,18272,152,4434,True,False,True,True,AdminLTE - Free admin dashboard template based on Bootstrap 5
+jest,jestjs,TypeScript,45289,6636,239,4449,True,True,True,True,Delightful JavaScript Testing.
+JeecgBoot,jeecgboot,Java,45226,15826,56,2637,False,False,True,True,【AI低代码平台】AI low-code platform empowers enterprises to quickly develop low-code solutions and build AI applications.  助力企业快速实现低代码开发和构建AI应用！ AI应用平台涵盖：AI应用、AI模型、AI聊天助手、知识库、AI流程编排、MCP和插件，聊天式业务操作等。 强大代码生成器：实现前后端一键生成，无需手写代码! 显著提升效率节省成本，又不失灵活~
+tldraw,tldraw,TypeScript,45201,2954,301,1742,True,True,True,True,very good whiteboard infinite canvas SDK
+GitHubDaily,GitHubDaily,,45180,4545,526,2603,False,False,True,True,"坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub."
+zx,google,JavaScript,45147,1200,36,1746,False,False,True,True,A tool for writing better scripts
+nvm-windows,coreybutler,Go,44935,3728,98,4164,False,True,True,True,A node.js version management utility for Windows. Ironically written in Go.
+meteor,meteor,JavaScript,44779,5263,340,5140,True,True,True,True,"Meteor, the JavaScript App Platform"
+CppCoreGuidelines,isocpp,CSS,44775,5547,252,3831,False,True,True,True,"The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++"
+hyper,vercel,TypeScript,44698,3547,1022,3515,False,False,True,True,A terminal built on web technologies
+bevy,bevyengine,Rust,44621,4379,3241,2218,True,True,True,True,A refreshingly simple data-driven game engine built in Rust
+Rocket.Chat,RocketChat,TypeScript,44610,13140,3578,3924,True,False,True,True,The Secure CommsOS™ for mission-critical operations
+TTS,coqui-ai,Python,44532,5962,7,2096,True,True,True,True,"🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production"
+react-hook-form,react-hook-form,TypeScript,44521,2357,120,2537,True,True,True,True,📋 React Hooks for form state management and validation (Web + React Native)
+Leaflet,Leaflet,JavaScript,44493,6086,562,5623,True,True,True,True,🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
+grpc,grpc,C++,44352,11053,1179,4085,False,True,True,True,"C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)"
+slidev,slidevjs,TypeScript,44329,1935,176,1757,True,True,True,True,Presentation Slides for Developers
+spotube,KRTirtho,Dart,44329,1984,734,1826,True,False,True,True,🎧 Open source music streaming app! Available for both desktop & mobile!
+airflow,apache,Python,44276,16473,1750,3959,True,True,True,True,"Apache Airflow - A platform to programmatically author, schedule, and monitor workflows"
+pyenv,pyenv,Shell,44268,3239,54,4915,False,True,True,True,Simple Python version management
+penpot,penpot,Clojure,44236,2485,551,3699,True,True,True,True,Penpot: The open-source design tool for design and code collaboration
+reactjs-interview-questions,sudheerj,JavaScript,44234,10286,6,2815,False,False,True,True,List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
+edex-ui,GitSquared,JavaScript,44222,2995,6,3304,False,False,True,True,"A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support."
+build-web-application-with-golang,astaxie,Go,44185,10544,135,4944,False,False,False,True,A golang ebook intro how to build a web with golang
+crewAI,crewAIInc,Python,44113,5906,279,841,False,False,True,True,"Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks."
+EasySpider,NaiboWang,JavaScript,44086,5394,266,2037,False,False,True,True,A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
+legado,gedoor,Kotlin,44079,4906,72,2460,False,False,True,True,"Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。"
+parcel,parcel-bundler,JavaScript,44040,2278,585,3112,True,True,True,True,The zero configuration build tool for the web. 📦🚀
+react-use,streamich,TypeScript,43929,3284,652,2667,False,True,True,True,React Hooks — 👍
+MediaCrawler,NanmiCoder,Python,43923,9660,129,981,False,False,True,True,小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
+awesome-compose,docker,HTML,43905,8022,331,2193,False,True,True,True,Awesome Docker Compose samples
+retrofit,square,HTML,43885,7353,163,5639,False,False,True,True,A type-safe HTTP client for Android and the JVM
+babel,babel,TypeScript,43873,5801,759,4157,True,True,True,True,🐠 Babel is a compiler for writing next generation JavaScript.
+front-end-interview-handbook,yangshun,MDX,43838,5948,14,2953,True,True,True,True,Front End interview preparation materials for busy engineers (updated for 2025)
+iina,iina,Swift,43798,2743,1941,3344,False,True,True,True,The modern video player for macOS.
+TensorFlow-Examples,aymericdamien,Jupyter Notebook,43798,14809,226,3748,False,False,False,True,TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
+ghostty,ghostty-org,Zig,43731,1628,202,1417,False,True,True,True,"👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration."
+awesome-remote-job,lukasz-madon,,43524,4467,25,4061,False,True,True,True,A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
+streamlit,streamlit,Python,43480,4089,1313,2366,True,True,True,True,Streamlit — A faster way to build and share data apps.
+fuels-rs,FuelLabs,Rust,43426,1360,69,1566,False,False,True,True,Fuel Network Rust SDK
+Summer2026-Internships,SimplifyJobs,Python,43391,3167,2,2092,False,True,True,True,Collection of Summer 2026 tech internships!
+fuels-ts,FuelLabs,TypeScript,43382,1367,65,1624,True,True,True,True,Fuel Network Typescript SDK
+jsoncrack.com,AykutSarac,TypeScript,43323,3485,41,1476,True,True,True,True,"✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs."
+upscayl,upscayl,TypeScript,43267,2075,69,1294,False,False,True,True,"🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows."
+nanochat,karpathy,Python,43256,5617,51,124,False,False,False,True,The best ChatGPT that $100 can buy.
+sentry,getsentry,Python,43147,4607,2052,5646,False,False,True,True,Developer-first error tracking and performance monitoring
+cobra,spf13,Go,43146,3052,347,4546,False,True,True,True,A Commander for modern Go CLI interactions
+TrafficMonitor,zhongyang219,C++,43083,3601,1249,3121,False,False,True,True,这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
+pm2,Unitech,JavaScript,42928,2683,1083,4652,False,True,True,True,Node.js Production Process Manager with a built-in Load Balancer.
+helix,helix-editor,Rust,42920,3311,1438,2084,False,False,True,True,A post-modern modal text editor.
+CPlusPlusThings,Light-City,C++,42858,8833,17,2407,False,False,False,True,C++那些事
+spark,apache,Scala,42812,29065,255,4372,False,True,True,True,Apache Spark - A unified analytics engine for large-scale data processing
+LocalAI,mudler,Go,42798,3555,167,1063,False,True,True,True,":robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference"
+kong,Kong,Lua,42761,5073,130,4106,True,True,True,True,🦍 The API and AI Gateway
+python-patterns,faif,Python,42756,7064,12,5000,False,False,True,True,A collection of design patterns/idioms in Python
+milvus,milvus-io,Go,42748,3825,993,2343,True,True,True,True,"Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search"
+what-happens-when,alex,,42698,5724,2074,4482,False,False,False,True,"An attempt to answer the age old interview question ""What happens when you type google.com into your browser and press enter?"""
+zig,ziglang,Zig,42679,3079,3511,3845,False,False,False,True,Moved to Codeberg
+git-flight-rules,k88hudson,,42484,3197,16,4224,False,False,False,True,Flight rules for git
+cli,cli,Go,42461,7933,953,2326,False,False,True,True,GitHub’s official command line tool
+copyparty,9001,Python,42366,1722,230,2456,True,True,True,True,"Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file"
+Alamofire,Alamofire,Swift,42350,7670,42,4216,False,True,True,True,Elegant HTTP Networking in Swift
+mitmproxy,mitmproxy,Python,42285,4451,408,5842,False,True,True,True,An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+fanqiang,bannedbook,Kotlin,42242,7578,324,4049,False,False,True,True,翻墙-科学上网
+Umi-OCR,hiroi-sora,Python,42093,4159,324,1419,False,False,True,True,"OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。"
+pandoc,jgm,Haskell,42089,3769,1054,5809,False,True,True,True,Universal markup converter
+ailearning,apachecn,Python,42031,11610,3,3276,False,False,True,True,AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
+diagrams,mingrammer,Python,42001,2722,382,2204,False,True,True,True,:art: Diagram as Code for prototyping cloud system architectures
+RSSHub,DIYgod,TypeScript,41864,9208,366,2875,True,True,True,True,🧡 Everything is RSSible
+Files,files-community,C#,41863,2600,514,2597,False,False,True,False,A modern file manager that helps users organize their files and folders.
+zod,colinhacks,TypeScript,41841,1819,241,2169,True,True,True,True,TypeScript-first schema validation with static type inference
+swiper,nolimits4web,JavaScript,41788,9712,243,5084,True,True,True,True,Most modern mobile touch slider with hardware accelerated transitions
+tmux,tmux,C,41758,2409,40,3908,False,False,True,True,tmux source code
+dubbo,apache,Java,41727,26555,913,4988,True,True,True,True,The java implementation of Apache Dubbo. An RPC and microservice framework.
+gradio,gradio-app,Python,41704,3259,476,2614,True,True,True,True,"Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!"
+nw.js,nwjs,JavaScript,41627,3870,956,5155,False,False,True,True,Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
+DeepSpeed,deepspeedai,Python,41621,4719,1268,2213,True,True,True,True,"DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective."
+fd,sharkdp,Rust,41567,974,160,3202,False,True,True,True,"A simple, fast and user-friendly alternative to 'find'"
+full-stack-fastapi-template,fastapi,TypeScript,41554,8093,13,2548,False,True,True,True,"Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more."
+yarn,yarnpkg,JavaScript,41545,2733,2061,3678,True,True,True,True,The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
+English-level-up-tips,byoungd,,41450,4397,29,3182,False,False,False,True,An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程/英语学习/学英语
+uni-app,dcloudio,JavaScript,41417,3717,712,2774,False,False,True,True,A cross-platform framework using Vue.js
+exo,exo-explore,Python,41408,2811,148,599,False,True,True,True,Run frontier AI locally.
+black,psf,Python,41381,2724,332,2893,False,True,True,True,The uncompromising Python code formatter
+ColossalAI,hpcaitech,Python,41340,4534,493,1570,False,True,True,True,"Making large AI models cheaper, faster and more accessible"
+pure-bash-bible,dylanaraps,Shell,41327,3635,62,2803,False,True,False,True,📖 A collection of pure bash alternatives to external processes.
+siyuan,siyuan-note,TypeScript,41270,2566,376,1994,False,False,True,True,"A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang."
+chatgpt-on-wechat,zhayujie,Python,41262,9737,350,1287,False,False,True,True,CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企业微信应用、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。
+ray,ray-project,Python,41258,7218,3360,3398,False,True,True,True,Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
+hexo,hexojs,TypeScript,41237,5035,99,4892,True,False,True,True,"A fast, simple & powerful blog framework, powered by Node.js."
+ChatGLM-6B,zai-org,Python,41230,5208,603,1069,False,False,True,True,ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
+vue2-elm,bailicangdu,Vue,41171,12353,121,3340,False,False,True,True,Large single page application with 45 pages built on vue2 + vuex. 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用
+styled-components,styled-components,TypeScript,41024,2524,335,3469,True,True,True,True,Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
+fastlane,fastlane,Ruby,40984,5972,871,4091,True,True,True,True,🚀 The easiest way to automate building and releasing your iOS and Android apps
+vuetify,vuetifyjs,TypeScript,40956,7152,671,3442,True,False,True,True,🐉 Vue Component Framework
+logseq,logseq,Clojure,40923,2448,1040,2093,True,True,True,True,"A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap/34267"
+cheat.sh,chubin,Python,40901,1897,140,3204,False,True,True,True,the only cheat sheet you need
+ccxt,ccxt,Python,40898,8502,1346,3198,False,True,True,True,A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
+bruno,usebruno,JavaScript,40864,2113,1709,1235,False,True,True,True,Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
+tabler,tabler,HTML,40717,4337,113,2935,False,False,True,True,Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+curl,curl,C,40698,7057,33,5811,False,False,True,True,"A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features"
+aider,Aider-AI,Python,40629,3889,1380,1011,False,True,True,True,aider is AI pair programming in your terminal
+payload,payloadcms,TypeScript,40568,3371,749,1865,False,True,True,True,"Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications."
+WeChatMsg,LC044,,40535,4858,25,1130,False,False,False,True,
+system-design,karanpratapsingh,,40430,5062,3,1278,True,True,True,True,Learn how to design systems at scale and prepare for system design interviews
+jan,janhq,TypeScript,40422,2515,225,912,False,True,True,True,Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
+50projects50days,bradtraversy,CSS,40418,9767,41,1916,False,False,False,True,"50+ mini web projects using HTML, CSS & JS"
+daisyui,saadeghi,Svelte,40242,1607,52,1903,False,False,True,True,"🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library"
+chakra-ui,chakra-ui,TypeScript,40226,3569,21,2373,True,True,True,True,Chakra UI is a component system for building SaaS products with speed ⚡️
+zju-icicles,QSCTech,HTML,40220,9606,10,3518,False,False,True,True,浙江大学课程攻略共享计划
+cal.com,calcom,TypeScript,40189,11903,1379,1790,True,True,True,True,Scheduling infrastructure for absolutely everyone.
+hyperswitch,juspay,Rust,40144,4564,1394,1216,False,False,True,True,"An open source payments switch written in Rust to make payments fast, reliable and affordable"
+data-engineer-handbook,DataExpert-io,Jupyter Notebook,40107,7646,26,817,False,False,False,True,This is a repo with links to everything you'd ever want to learn about data engineering
+desktop,zen-browser,JavaScript,40095,1325,538,688,True,False,True,True,Welcome to a calmer internet
+wrk,wg,C,40056,3028,202,5079,False,False,True,True,Modern HTTP benchmarking tool
+aria2,aria2,C++,40014,3817,1136,5558,False,False,True,True,"aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink."
+remote-jobs,remoteintech,Nunjucks,40004,3926,12,3777,False,False,True,True,A list of semi to fully remote-friendly companies (jobs) in tech.
+HEU_KMS_Activator,zbezj,,39927,3798,164,2428,False,False,False,True,
+bert,google-research,Python,39852,9707,882,2668,False,True,False,True,TensorFlow code and pre-trained models for BERT
+php-src,php,C,39849,8004,1751,5357,False,True,True,True,The PHP Interpreter
+vim,vim,Vim Script,39823,5982,1653,3832,False,True,True,True,The official Vim repository
+cherry-studio,CherryHQ,TypeScript,39790,3665,634,631,True,True,True,True,"AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs"
+tidb,pingcap,Go,39738,6118,5660,3814,True,True,True,True,"TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications."
+esbuild,evanw,Go,39696,1284,592,3532,False,False,True,True,An extremely fast bundler for the web
+twenty,twentyhq,TypeScript,39690,5166,232,1171,False,False,True,True,"Building a modern alternative to Salesforce, powered by the community."
+trpc,trpc,TypeScript,39534,1488,184,2037,False,True,True,True,🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. 
+minimind,jingyaogong,Python,39514,4767,35,567,True,False,False,True,🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
+gorm,go-gorm,Go,39493,4134,517,4495,True,False,True,True,"The fantastic ORM library for Golang, aims to be developer friendly"
+video.js,videojs,JavaScript,39488,7520,630,5754,True,True,True,True,Video.js - open source HTML5 video player
+Deep-Learning-Papers-Reading-Roadmap,floodsung,Python,39472,7330,91,3410,False,False,False,True,Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
+Win11Debloat,Raphire,PowerShell,39456,1529,27,1935,False,False,True,True,"A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11."
+free,freefq,,39448,5672,554,2078,False,False,False,True,翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
+puter,HeyPuter,JavaScript,39416,3476,189,713,False,True,True,True,"🌐 The Internet Computer! Free, Open-Source, and Self-Hostable."
+FastChat,lm-sys,Python,39400,4781,981,1063,False,False,True,True,"An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena."
+bubbletea,charmbracelet,Go,39381,1094,155,2226,False,False,True,True,A powerful little TUI framework 🏗
+photoprism,photoprism,Go,39245,2207,446,2940,True,True,True,True,AI-Powered Photos App for the Decentralized Web 🌈💎✨
+fiber,gofiber,Go,39205,1957,44,2221,False,False,True,False,⚡️ Express inspired web framework written in Go
+materialize,Dogfalo,JavaScript,39159,4663,791,4172,True,True,True,True,"Materialize, a CSS Framework based on Material Design"
+faiss,facebookresearch,C++,39099,4234,282,3294,True,True,True,True,A library for efficient similarity search and clustering of dense vectors.
+appsmith,appsmithorg,TypeScript,39087,4457,4436,2055,True,True,True,True,"Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API."
+Fabric,danielmiessler,Go,39052,3897,24,772,False,False,True,True,Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+phaser,phaserjs,JavaScript,39021,7131,101,4691,False,False,True,True,"Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering."
+Awesome-Design-Tools,goabstract,JavaScript,39018,2188,112,2559,False,False,False,True,The best design tools and plugins for everything 👉
+shellcheck,koalaman,Haskell,38979,1898,1194,4837,False,False,True,True,"ShellCheck, a static analysis tool for shell scripts"
+bark,suno-ai,Jupyter Notebook,38970,4679,264,1043,False,False,False,True,🔊 Text-Prompted Generative Audio Model
+styleguide,google,HTML,38952,13002,173,3922,True,False,True,True,Style guides for Google-originated open-source projects
+quivr,QuivrHQ,Python,38923,3717,19,1008,False,False,True,True,"Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want. "
+leveldb,google,C++,38823,8158,371,4188,False,True,True,True,LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+ChatTTS,2noise,Python,38699,4207,61,627,False,False,True,True,A generative speech model for daily dialogue.
+cobalt,imputnet,Svelte,38619,3194,217,1316,False,True,True,True,best way to save what you love
+impress.js,impress,JavaScript,38577,6620,59,5161,False,False,True,True,It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
+novu,novuhq,TypeScript,38565,4217,156,1633,True,True,True,True,"The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations."
+chatbox,chatboxai,TypeScript,38505,3898,1042,1076,False,False,True,True,Powerful AI Client
+devdocs,freeCodeCamp,Ruby,38482,2564,230,4495,False,False,True,True,API Documentation Browser
+mindsdb,mindsdb,Python,38444,6097,171,2752,True,True,True,True,Federated Query Engine for AI - The only MCP Server you'll ever need
+data-engineering-zoomcamp,DataTalksClub,Jupyter Notebook,38388,7723,7,1577,False,False,True,True,Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼
+preact,preactjs,JavaScript,38377,2031,155,3809,False,True,True,True,⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
+nushell,nushell,Rust,38311,2045,1541,2471,True,True,True,True,A new type of shell
+googletest,google,C++,38227,10688,516,3854,False,True,True,True,GoogleTest - Google Testing and Mocking Framework
+MPAndroidChart,PhilJay,Java,38222,9058,2191,4313,False,True,True,True,"A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations."
+python-cheatsheet,gto76,Python,38219,6699,0,2942,False,False,False,True,Comprehensive Python Cheatsheet
+lossless-cut,mifi,TypeScript,38200,1854,248,3394,False,True,True,True,The swiss army knife of lossless video/audio editing
+lapce,lapce,Rust,38068,1232,872,2930,False,True,True,True,Lightning-fast and Powerful Code Editor written in Rust
+halo,halo-dev,Java,37958,10213,247,2887,True,True,True,True,强大易用的开源建站工具。
+insomnia,Kong,TypeScript,37936,2218,808,3584,True,True,True,True,"The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage."
+ant-design-pro,ant-design,TypeScript,37933,8243,174,3095,True,False,True,True,👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
+istio,istio,Go,37925,8242,498,3374,False,True,True,True,"Connect, secure, control, and observe services."
+tesseract.js,naptha,JavaScript,37846,2358,41,3888,False,False,True,True,Pure Javascript OCR for more than 100 Languages 📖🎉🖥
+agno,agno-agi,Python,37841,5006,565,1382,True,True,True,True,Build multi-agent systems that learn and improve with every interaction.
+awesome-cursorrules,PatrickJS,MDX,37839,3199,66,516,False,True,True,True,📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
+aspnetcore,dotnet,C#,37698,10576,3692,4358,False,True,True,True,"ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux."
+wtfjs,denysdovhan,JavaScript,37638,2672,45,3137,False,True,True,True,🤪 A list of funny and tricky JavaScript examples
+freecodecamp.cn,FreeCodeCampChina,CSS,37636,1407,157,3424,False,True,True,True,FCC China open source codebase and curriculum. Learn to code and help nonprofits.
+cli,httpie,Python,37548,3812,241,5103,True,True,True,True,"🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more."
+metasploit-framework,rapid7,Ruby,37515,14742,523,5282,True,True,True,True,Metasploit Framework
+interview,huihut,C++,37511,8129,2,2927,False,False,False,True,"📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendation, etc."
+Open-Assistant,LAION-AI,Python,37456,3306,293,1159,False,True,True,True,"OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so."
+ToolJet,ToolJet,JavaScript,37425,4942,962,1782,True,True,True,True,"ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀"
+polars,pola-rs,Rust,37401,2617,2746,2102,False,True,True,True,"Extremely fast Query Engine for DataFrames, written in Rust"
+GFPGAN,TencentARC,Python,37378,6276,399,1793,True,False,True,True,GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
+qlib,microsoft,Python,37372,5802,348,2010,True,False,True,True,"Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process."
+v,vlang,V,37341,2237,1119,2563,True,True,True,True,"Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io"
+tutorials,eugenp,Java,37339,53850,35,4673,False,True,True,True,Getting Started with Spring Boot 3: 
+taro,NervJS,TypeScript,37298,4893,1710,2869,False,True,True,True,开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
+Langchain-Chatchat,chatchat-space,Python,37291,6141,25,1051,False,False,True,True,"Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain "
+google-research,google-research,Jupyter Notebook,37259,8326,1759,2689,False,True,False,True,Google Research
+deeplearningbook-chinese,exacity,TeX,37190,9168,67,3356,False,False,False,True,Deep Learning Book Chinese Translation
+Folo,RSSNext,TypeScript,37185,1953,384,677,True,True,True,True,🧡 Folo is the AI Reader
+interview_internal_reference,0voice,Python,37178,9425,36,2441,False,False,False,True,2025年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
+NewPipe,TeamNewPipe,Java,37150,3461,1380,3816,False,False,True,True,A libre lightweight streaming front-end for Android.
+outline,outline,TypeScript,37140,3067,59,3554,False,False,True,True,"The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible."
+engineering-blogs,kilimchoi,Ruby,37101,1948,143,3898,False,True,True,True,A curated list of engineering blogs
+arthas,alibaba,Java,37092,7634,461,2725,False,True,True,True,Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
+gym,openai,Python,37034,8710,127,3580,True,True,True,True,A toolkit for developing and comparing reinforcement learning algorithms.
+it-tools,CorentinTh,Vue,37032,4613,754,2141,False,False,True,True,"Collection of handy online tools for developers, with great UX. "
+compose,docker,Go,36981,5716,52,4450,False,True,True,True,Define and run multi-container applications with Docker
+spacedrive,spacedriveapp,Rust,36948,1200,23,1601,True,True,True,True,"Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust."
+llvm-project,llvm,LLVM,36924,16139,34614,3356,True,True,True,True,The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+wtfpython,satwikkansal,Python,36895,2669,70,3091,False,True,True,True,What the f*ck Python? 😱
+MockingBird,babysor,Python,36874,5246,482,1652,True,False,True,True,🚀Clone a voice in 5 seconds to generate arbitrary speech in real-time
+JavaFamily,AobingJava,,36873,7804,6,2286,False,False,False,True,【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
+docs,inkonchain,MDX,36854,448,44,647,False,False,True,True,Ink Documentation
+RevokeMsgPatcher,huiyadanli,C#,36820,3919,47,2400,False,False,True,True,:trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
+node,inkonchain,Shell,36806,630,18,641,False,False,True,True,How to run an Ink Node
+manim,ManimCommunity,Python,36760,2650,474,2097,True,True,True,True,A community-maintained Python framework for creating mathematical animations. 
+ink-kit,inkonchain,TypeScript,36714,426,3,467,False,False,True,True,React component library for onchain applications - See README for modern alternatives
+shadowsocks-android,shadowsocks,Kotlin,36660,11541,60,4808,False,True,True,True,A shadowsocks client for Android
+REKCARC-TSC-UHT,PKUanonym,HTML,36640,7847,2,2507,False,False,False,True,"清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University"
+og-aws,open-guides,Shell,36638,3912,159,3502,True,True,True,True,📙 Amazon Web Services — a practical guide
+sqlmap,sqlmapproject,Python,36596,6195,57,4981,False,False,True,True,Automatic SQL injection and database takeover tool
+drawdb,drawdb-io,JavaScript,36591,2852,179,943,False,True,True,True,"Free, simple, and intuitive online database diagram editor and SQL generator."
+marked,markedjs,TypeScript,36587,3509,9,5319,False,False,True,True,A markdown parser and compiler. Built for speed.
+paperless-ngx,paperless-ngx,Python,36585,2323,10,1462,True,True,True,True,"A community-supported supercharged document management system: scan, index and archive all your documents"
+portainer,portainer,TypeScript,36560,2773,712,3557,True,True,True,True,Making Docker and Kubernetes management easy.
+remotion,remotion-dev,TypeScript,36554,2222,89,2061,False,True,True,True,🎥      Make videos programmatically with React
+vnpy,vnpy,Python,36522,10880,12,4002,False,False,True,True,基于Python的开源量化交易平台开发框架
+supervision,roboflow,Python,36485,3090,137,1174,False,False,True,True,We write your reusable computer vision tools. 💜
+awesome-shell,alebcay,,36484,2464,125,4240,False,True,True,True,"A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php."
+date-fns,date-fns,TypeScript,36467,1931,910,4149,False,True,True,True,⏳ Modern JavaScript date utility library ⌛️
+stats,exelban,Swift,36450,1179,31,2452,False,False,True,True,macOS system monitor in your menu bar
+pytorch-image-models,huggingface,Python,36368,5118,75,2569,True,True,True,True,"The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT), MobileNetV4, MobileNet-V3 & V2, RegNet, DPN, CSPNet, Swin Transformer, MaxViT, CoAtNet, ConvNeXt, and more"
+LLM101n,karpathy,,36316,1973,19,628,False,False,False,True,LLM101n: Let's build a Storyteller
+typeorm,typeorm,TypeScript,36309,6496,499,3638,False,True,True,True,"ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms."
+Coursera-ML-AndrewNg-Notes,fengdu78,HTML,36291,11137,68,3024,False,False,False,True,吴恩达老师的机器学习课程个人笔记
+sheetjs,SheetJS,,36180,7979,132,4820,False,False,True,True,📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
+slate,slatedocs,,36164,348,50,4536,False,False,False,True,Beautiful static documentation for your API
+HanLP,hankcs,Python,36129,10904,12,4146,False,False,True,True,"Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification"
+955.WLB,formulahendry,,36116,1750,202,2515,False,False,True,True,955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)
+duckdb,duckdb,C++,36093,2927,615,2790,True,True,True,True,DuckDB is an analytical in-process SQL database management system
+lerna,lerna,TypeScript,36078,2275,390,3725,True,True,True,True,"Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository."
+GPT_API_free,chatanywhere,Python,36045,2541,58,1028,False,False,True,True,Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
+hello-algorithm,geekxh,Java,36015,6462,11,2087,False,False,False,True,🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）推荐免费ChatGPT使用网站
+litellm,BerriAI,Python,35984,5807,1441,933,False,True,True,True,"Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]"
+DragGAN,XingangPan,Python,35972,3441,154,1003,False,False,False,True,Official Code for DragGAN (SIGGRAPH 2023)
+gkd,gkd-kit,Kotlin,35964,1749,10,956,False,False,True,True,"基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules"
+OpenVoice,myshell-ai,Python,35929,4013,297,808,False,False,False,True,Instant voice cloning by MIT and MyShell. Audio foundation model.
+manifesto,opentofu,HTML,35918,1053,20,916,False,False,True,True,The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source license.
+carbon,carbon-app,JavaScript,35893,1972,79,3165,False,False,True,True,:black_heart: Create and share beautiful images of your source code
+react-bits,DavidHDev,JavaScript,35779,1582,8,557,False,True,True,True,"An open source collection of animated, interactive & fully customizable React components for building memorable websites."
+koa,koajs,JavaScript,35730,3215,25,4591,True,False,True,True,Expressive middleware for node.js using ES2017 async functions
+AgentGPT,reworkd,TypeScript,35702,9453,220,1044,False,False,True,True,"🤖 Assemble, configure, and deploy autonomous AI Agents in your browser."
+aseprite,aseprite,C++,35685,7771,1887,4196,True,True,True,True,"Animated sprite editor & pixel art tool (Windows, macOS, Linux)"
+fastify,fastify,JavaScript,35623,2580,110,3425,True,True,True,True,"Fast and low overhead web framework, for Node.js"
+leetcode,doocs,Java,35618,9343,1,2708,True,False,True,True,🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
+ShareX,ShareX,C#,35613,3604,590,4511,False,False,True,True,"ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations."
+awesome-react-native,jondot,JavaScript,35599,4025,103,3977,False,True,True,True,"Awesome React Native components, news, tools, and learning material!"
+BMAD-METHOD,bmad-code-org,JavaScript,35589,4447,88,307,False,True,True,True,Breakthrough Method for Agile Ai Driven Development
+lottie-android,airbnb,Java,35574,5446,52,3417,True,False,True,True,"Render After Effects animations natively on Android and iOS, Web, and React Native"
+vim-plug,junegunn,Vim Script,35557,1950,83,4540,False,False,True,True,:hibiscus: Minimalist Vim Plugin Manager
+BettaFish,666ghj,Python,35542,6809,28,593,True,True,True,True,微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
+qBittorrent,qbittorrent,C++,35535,4568,2481,5124,False,True,True,True,qBittorrent BitTorrent client
+fullPage.js,alvarotrigo,JavaScript,35490,7181,127,4530,False,True,True,True,fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
+linux-command,jaywcjlove,Markdown,35479,6575,84,3381,False,True,True,True,Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
+awesome-docker,veggiemonk,,35456,3234,8,4163,False,False,True,True,:whale: A curated list of Docker resources and projects
+servo,servo,Rust,35450,3475,3061,5119,True,True,True,True,"Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications."
+ruoyi-vue-pro,YunaiV,Java,35434,7672,3,1847,False,False,True,True,🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
+awesome-deepseek-integration,deepseek-ai,,35416,3948,156,765,False,False,False,True,Integrate the DeepSeek API into popular softwares
+nativefier,nativefier,TypeScript,35353,2249,258,3877,False,False,True,True,Make any web page a desktop application
+headscale,juanfont,Go,35348,1900,113,2064,True,True,True,True,"An open source, self-hosted implementation of the Tailscale control server"
+mattermost,mattermost,TypeScript,35307,8330,905,3897,False,True,True,True,Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
+xyflow,xyflow,TypeScript,35217,2293,117,2406,True,True,True,True,React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.
+umami,umami-software,TypeScript,35212,6448,127,2038,False,False,True,True,"Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude."
+reactive-resume,amruthpillai,TypeScript,35204,3865,39,2152,False,False,True,True,"A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!"
+hackathon-starter,sahat,JavaScript,35193,8183,1,4475,False,False,True,True,A boilerplate for Node.js web applications
+the-way-to-go_ZH_CN,unknwon,Go,35167,8572,47,4709,False,False,False,True,《The Way to Go》中文译本，中文正式名《Go 入门指南》
+solid,solidjs,TypeScript,35111,1039,131,2853,True,True,True,True,"A declarative, efficient, and flexible JavaScript library for building user interfaces."
+tiptap,ueberdosis,TypeScript,35102,2876,871,2734,False,True,True,True,The headless rich text editor framework for web artisans.
+Xray-core,XTLS,Go,35047,4957,40,1923,True,False,True,True,"Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses."
+vault,hashicorp,Go,35030,4597,1452,4007,False,True,True,True,"A tool for secrets management, encryption as a service, and privileged access management"
+glide,bumptech,Java,35025,6182,629,4603,False,True,True,True,An image loading and caching library for Android focused on smooth scrolling
+ink,vadimdemedes,TypeScript,34928,847,53,3169,False,False,True,True,🌈 React for interactive command-line apps
+awesome-javascript,sorrycc,,34891,4522,30,4246,False,True,True,True,"🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things."
+jax,jax-ml,Python,34862,3420,2462,2668,False,True,True,True,"Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more"
+zsh-autosuggestions,zsh-users,Shell,34835,1922,197,4494,False,False,True,True,Fish-like autosuggestions for zsh
+caffe,BVLC,C++,34833,18567,1175,4537,False,True,True,True,Caffe: a fast open framework for deep learning.
+netty,netty,Java,34795,16285,624,5576,False,True,True,True,Netty project - an event-driven asynchronous network application framework
+HowToLiveLonger,geekan,,34780,2372,40,1400,False,False,True,True,程序员延寿指南 | A programmer's guide to live longer
+awesome-claude-skills,ComposioHQ,Python,34764,3369,164,120,False,True,False,True,"A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows"
+husky,typicode,JavaScript,34761,1080,102,4254,False,False,True,True,Git hooks made easy 🐶 woof!
+jieba,fxsjy,Python,34761,6717,697,4886,False,False,False,True,结巴中文分词
+Python,geekcomputers,Python,34732,12901,484,5190,True,True,True,True,My Python Examples
+rufus,pbatard,C,34723,2963,8,5200,False,False,True,True,The Reliable USB Formatting Utility
+Mole,tw93,Shell,34685,950,1,144,False,True,True,True,🐹 Deep clean and optimize your Mac.
+dioxus,DioxusLabs,Rust,34676,1543,643,1856,False,False,True,True,"Fullstack app framework for web, desktop, and mobile."
+Trilium,TriliumNext,TypeScript,34619,2288,912,3189,True,False,True,True,Build your personal knowledge base with Trilium Notes
+How-To-Ask-Questions-The-Smart-Way,ryanhanwu,JavaScript,34565,5783,11,3975,False,False,True,True,本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
+framework,laravel,PHP,34499,11785,88,4782,False,False,True,True,"Laravel is a web application framework with expressive, elegant syntax."
+Sunshine,LizardByte,C++,34447,1697,102,1521,False,False,True,True,Self-hosted game stream host for Moonlight.
+Retrieval-based-Voice-Conversion-WebUI,RVC-Project,Python,34425,4883,705,1055,False,True,True,True,Easily train a good VC model with voice data <= 10 mins!
+bulletproof-react,alan2207,TypeScript,34395,3137,53,1721,False,False,True,True,"🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications. "
+Hello-Python,mouredev,Python,34389,2251,24,1290,False,False,False,True,"Curso para aprender el lenguaje de programación Python desde cero y para principiantes. 100 clases, 44 horas en vídeo, código, proyectos y grupo de chat. Fundamentos, frontend, backend, testing, IA..."
+formik,jaredpalmer,TypeScript,34382,2792,836,3166,False,False,True,True,"Build forms in React, without the tears 😭 "
+node-v0.x-archive,nodejs,,34347,7272,0,6107,False,False,True,True,Moved to https://github.com/nodejs/node
+Real-ESRGAN,xinntao,Python,34343,4259,634,1671,True,False,True,True,Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
+gold-miner,xitu,,34335,5037,12,3755,True,False,True,True,🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
+textual,Textualize,Python,34284,1094,248,1773,True,True,True,True,The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
+TaskMatrix,chenfei-wu,Python,34259,3254,256,1080,True,True,False,True,
+directus,directus,TypeScript,34218,4563,378,4812,True,True,True,True,"The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more."
+poetry,python-poetry,Python,34201,2402,579,2908,True,False,True,True,Python packaging and dependency management made easy
+12306,testerSunshine,Python,34188,9713,280,3195,False,False,True,True,12306智能刷票，订票
+clipboard.js,zenorocha,JavaScript,34182,3931,15,3801,False,True,True,True,:scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
+croc,schollz,Go,34143,1347,9,3042,False,False,True,True,Easily and securely send things from one computer to another :crocodile: :package:
+server,nextcloud,PHP,34085,4724,3050,3544,True,False,True,True,"☁️ Nextcloud server, a safe home for all your data"
+spring-boot-demo,xkcoding,Java,34084,11003,142,3018,False,False,True,True,🚀一个用来深入学习并实战 Spring Boot 的项目。
+detectron2,facebookresearch,Python,34072,7896,585,2353,False,False,True,True,"Detectron2 is a platform for object detection, segmentation and other visual recognition tasks."
+refine,refinedev,TypeScript,34069,2933,27,1851,True,True,True,True,"A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility."
+awesome-cto,kuchin,,34069,2132,0,3346,False,False,False,True,"A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups"
+anoma,anoma,Elixir,34062,4113,147,1838,False,False,True,True,Reference implementation of Anoma
+JavaScript,TheAlgorithms,JavaScript,34049,5829,198,3138,False,True,True,True,"Algorithms and Data Structures implemented in JavaScript for beginners, following best practices."
+react-beautiful-dnd,atlassian,JavaScript,34047,2734,644,3111,True,True,True,True,Beautiful and accessible drag and drop for lists with React
+mpv,mpv-player,C,34038,3227,1076,4872,False,False,True,True,🎥 Command line media player
+CyberChef,gchq,JavaScript,34038,3842,560,3365,True,False,True,True,"The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis"
+selenium,SeleniumHQ,Java,34008,8644,215,4778,False,True,True,True,A browser automation framework and ecosystem.
+pnpm,pnpm,TypeScript,33968,1316,2111,3670,True,True,True,True,"Fast, disk space efficient package manager"
+AnotherRedisDesktopManager,qishibo,JavaScript,33924,2699,174,2594,False,False,True,True,"🚀🚀🚀A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac."
+nps,ehang-io,Go,33922,6083,526,2659,False,False,True,True,"一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal."
+Data-Science-For-Beginners,microsoft,Jupyter Notebook,33905,6944,14,1809,True,True,True,True,"10 Weeks, 20 Lessons, Data Science for All!"
+harness,harness,Go,33872,2892,83,4390,False,True,True,True,"Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries."
+Hyprland,hyprwm,C++,33860,1568,160,1430,True,False,True,True,"Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks."
+zxing,zxing,Java,33853,9431,9,5239,False,False,True,True,"ZXing (""Zebra Crossing"") barcode scanning library for Java, Android"
+LibreChat,danny-avila,TypeScript,33847,6805,416,1098,False,False,True,True,"Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active."
+C-Plus-Plus,TheAlgorithms,C++,33841,7721,26,3500,True,True,True,True,"Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes."
+LeetCode-Go,halfrost,Go,33795,5763,23,3133,False,False,True,True,"✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解"
+openpose,CMU-Perceptual-Computing-Lab,C++,33779,8054,358,3218,False,False,True,True,"OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation"
+gpt-pilot,Pythagora-io,Python,33777,3503,239,913,False,False,True,True,The first real AI developer
+mediapipe,google-ai-edge,C++,33774,5789,606,2437,False,True,True,True,"Cross-platform, customizable ML solutions for live and streaming media."
+Clone-Wars,GorvGoyl,,33774,3027,28,1900,False,False,True,True,"100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars."
+easyexcel,alibaba,Java,33763,7641,569,2930,False,True,True,True,快速、简洁、解决大文件内存溢出的java处理Excel工具
+AFNetworking,AFNetworking,Objective-C,33732,10495,102,5372,False,True,True,True,"A delightful networking framework for iOS, macOS, watchOS, and tvOS."
+AndroidUtilCode,Blankj,Java,33702,10691,328,3485,False,False,True,True,:fire: Android developers should collect the following utils(updating).
+ControlNet,lllyasviel,Python,33640,2998,459,1109,False,False,False,True,Let us control diffusion models!
+shadowsocks,shadowsocks,Python,33632,18298,451,5048,False,False,False,True,
+carbon-lang,carbon-language,C++,33627,1523,211,2118,True,True,True,True,"Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)"
+everyone-can-use-english,ZuodaoTech,TypeScript,33577,4713,96,2528,False,False,True,True,人人都能用英语
+jq,jqlang,C,33530,1698,452,4958,False,False,True,True,Command-line JSON processor
+filebrowser,filebrowser,Go,33432,3705,33,3808,False,True,True,True,📂 Web File Browser
+XX-Net,XX-net,Python,33430,7598,7923,4048,False,False,True,True,A proxy tool to bypass GFW.
+1Panel,1Panel-dev,Go,33393,2960,385,1306,True,True,True,True,"🔥 1Panel offers an intuitive web interface for a Linux server / VPS, making it easy to manage OpenClaw agents, local LLMs, websites, databases, containers, files, and scheduled tasks."
+zoxide,ajeetdsouza,Rust,33376,730,152,2172,False,False,True,True,A smarter cd command. Supports all major shells.
+libpku,lib-pku,TeX,33293,8270,14,2641,False,False,False,True,贵校课程资料民间整理
+swc,swc-project,Rust,33223,1366,415,2976,False,True,True,True,Rust-based platform for the Web
+awesome-awesomeness,bayandin,Ruby,33213,3588,44,4239,False,True,True,True,A curated list of awesome awesomeness
+v2ray-core,v2fly,Go,33206,4985,34,2497,False,False,True,True,A platform for building proxies to bypass network restrictions.
+spaCy,explosion,Python,33201,4638,189,4244,False,True,True,True,💫 Industrial-strength Natural Language Processing (NLP) in Python
+CasaOS,IceWhaleTech,Go,33178,1861,788,1602,True,False,True,True,"CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system."
+learnGitBranching,pcottle,JavaScript,33143,5953,55,4932,False,True,True,True,An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
+etcher,balena-io,TypeScript,33132,2326,643,3762,False,False,True,True,"Flash OS images to SD cards & USB drives, safely and easily."
+ijkplayer,bilibili,C,33119,8255,2895,4639,False,False,False,True,"Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support."
+brackets,adobe,JavaScript,33113,7529,2779,5182,True,True,False,True,"An open source code editor for the web, written in JavaScript, HTML and CSS."
+immutable-js,immutable-js,TypeScript,33093,1775,121,4245,False,False,True,True,Immutable persistent data collections for Javascript which increase efficiency and simplicity.
+chatbot-ui,mckaywrigley,TypeScript,33029,9474,233,1071,False,False,True,True,AI chat for any model.
+gulp,gulpjs,JavaScript,33019,4185,34,4608,False,True,True,True,A toolkit to automate & enhance your workflow
+ShadowsocksX-NG,shadowsocks,Swift,32901,7858,314,3536,False,False,True,True,Next Generation of ShadowsocksX
+serenity,SerenityOS,C++,32896,3302,737,2630,False,True,True,True,The Serenity Operating System 🐞
+tabby,TabbyML,Rust,32884,1680,291,1066,True,True,True,True,Self-hosted AI coding assistant
+claude-cookbooks,anthropics,Jupyter Notebook,32880,3381,47,913,False,True,True,True,A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+keycloak,keycloak,Java,32836,8053,2526,4610,False,True,True,True,Open Source Identity and Access Management For Modern Applications and Services
+certbot,certbot,Python,32833,3486,178,4112,True,True,True,True,Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
+UTM,utmapp,Swift,32810,1646,982,2500,False,False,True,True,Virtual machines for iOS and macOS
+drizzle-orm,drizzle-team,TypeScript,32785,1194,1552,1696,True,True,True,True,ORM
+k9s,derailed,Go,32783,2082,262,2576,False,False,True,True,🐶 Kubernetes CLI To Manage Your Clusters In Style!
+awesome-sysadmin,awesome-foss,,32778,1907,57,4071,False,False,True,True,A curated list of amazingly awesome open-source sysadmin resources.
+diffusers,huggingface,Python,32769,6768,910,1356,True,True,True,True,"🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch."
+modern-unix,ibraheemdev,,32756,822,67,1859,False,False,False,True,A collection of modern/faster/saner alternatives to common unix commands.
+sniffnet,GyulyVGC,Rust,32740,1204,54,1293,True,True,True,True,Comfortably monitor your Internet traffic 🕵️‍♂️
+wails,wailsapp,Go,32718,1589,301,2617,False,True,True,True,Create beautiful applications using Go
+comprehensive-rust,google,Rust,32633,1970,165,1151,False,True,True,True,This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
+nacos,alibaba,Java,32632,13256,218,2801,True,True,True,True,"an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications."
+go-zero,zeromicro,Go,32627,4278,305,2017,False,True,True,True,A cloud-native Go microservices framework with cli tool for productivity.
+OCRmyPDF,ocrmypdf,Python,32605,2271,140,4439,False,False,True,True,"OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched"
+backstage,backstage,TypeScript,32595,7091,441,2212,True,True,True,True,Backstage is an open framework for building developer portals
+yazi,sxyazi,Rust,32595,705,64,952,True,True,True,True,"💥 Blazing fast terminal file manager written in Rust, based on async I/O."
+CLIP,openai,Jupyter Notebook,32571,3913,268,1886,False,False,True,True,"CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image"
+YesPlayMusic,qier222,Vue,32564,4729,641,1954,False,False,True,True,高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron: 
+paper-reading,mli,,32561,2776,1,1576,False,False,False,True,深度学习经典、新论文逐段精读
+WxJava,binarywang,Java,32557,9054,17,3692,False,True,True,True,微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，视频号，公众号等的后端开发
+AdGuardHome,AdguardTeam,Go,32553,2244,1271,3510,False,True,True,True,Network-wide ads & trackers blocking DNS server
+fish-shell,fish-shell,Rust,32549,2223,527,5028,True,True,True,True,The user-friendly command line shell.
+stb,nothings,C,32502,8006,372,4282,False,False,True,True,stb single-file public domain libraries for C/C++
+khoj,khoj-ai,Python,32485,1959,92,1643,False,False,True,True,"Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free."
+firecracker,firecracker-microvm,Rust,32449,2247,69,3040,True,True,True,True,Secure and fast microVMs for serverless computing.
+floating-ui,floating-ui,TypeScript,32429,1670,46,3608,True,False,True,True,A JavaScript library to position floating elements and create interactions for them.
+beego,beego,Go,32418,5618,12,5099,False,True,True,True,"beego is an open-source, high-performance web framework for the Go programming language."
+MonitorControl,MonitorControl,Swift,32409,929,17,3072,False,False,True,True,🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
+yew,yewstack,Rust,32407,1451,154,2982,True,True,True,True,Rust / Wasm framework for creating reliable and efficient web applications
+mmdetection,open-mmlab,Python,32404,9850,1952,2733,False,False,True,True,OpenMMLab Detection Toolbox and Benchmark
+netron,lutzroeder,JavaScript,32391,3073,19,5529,False,True,True,True,"Visualizer for neural network, deep learning and machine learning models"
+awesome-php,ziadoz,,32363,5142,68,4463,False,True,True,True,"A curated list of amazingly awesome PHP libraries, resources and shiny things."
+swr,vercel,TypeScript,32303,1314,182,2300,False,False,True,True,React Hooks for Data Fetching
+remix,remix-run,TypeScript,32289,2733,45,1936,False,True,True,True,"Build Better Websites. Create modern, resilient user experiences with web fundamentals."
+cursor,cursor,,32269,2201,1,1070,False,False,True,True,The AI Code Editor
+restic,restic,Go,32230,1718,521,4311,False,True,True,True,"Fast, secure, efficient backup program"
+my-tv,lizongying,C,32230,3617,147,803,False,False,True,True,我的电视 电视直播软件，安装即可使用
+material-design-lite,google,HTML,32217,4949,430,4048,False,True,True,True,Material Design Components in HTML/CSS/JS
+dspy,stanfordnlp,Python,32199,2625,467,1131,False,True,True,True,DSPy: The framework for programming—not prompting—language models
+langextract,google,Python,32186,2146,121,220,False,True,True,True,A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
+pytorch-tutorial,yunjey,Python,32177,8279,90,3263,False,False,False,True,PyTorch Tutorial for Deep Learning Researchers
+k3s,k3s-io,Go,32176,2597,121,2816,True,True,True,True,Lightweight Kubernetes
+linux-insides,0xAX,Python,32174,3498,40,4059,True,True,True,True,A book-in-progress about the Linux kernel and its insides.
+echo,labstack,Go,32155,2315,93,4002,False,False,True,True,"High performance, minimalist Go web framework"
+fairseq,facebookresearch,Python,32153,6656,1351,3091,True,True,True,True,Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
+run,The-Run-Philosophy-Organization,,32153,2588,45,1406,False,False,True,True,润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
+linera-protocol,linera-io,Rust,32104,2286,572,1518,False,True,True,True,Main repository for the Linera protocol
+medusa,medusajs,TypeScript,32020,4062,151,2219,False,True,True,True,The world's most flexible commerce platform.
+web-check,Lissy93,TypeScript,32016,2519,92,965,False,False,True,False,🕵️‍♂️ All-in-one OSINT tool for analysing any website
+GPTs,linexjlin,,31947,4426,12,826,False,False,False,True,leaked prompts of GPTs
+trivy,aquasecurity,Go,31904,2947,215,2501,False,True,True,True,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more"
+sharp,lovell,JavaScript,31900,1385,118,4561,False,False,True,True,"High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library."
+graphql-engine,hasura,TypeScript,31898,2854,2375,2798,False,True,True,True,"Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events."
+kafka,apache,Java,31894,14959,280,5296,False,True,True,True,Mirror of Apache Kafka
+dokku,dokku,Shell,31891,2020,51,4634,False,True,True,True,A docker-powered PaaS that helps you build and manage the lifecycle of applications
+glance,glanceapp,Go,31889,1198,287,657,False,False,True,True,A self-hosted dashboard that puts all your feeds in one place
+cockroach,cockroachdb,Go,31845,4082,7862,4391,True,True,True,True,"CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement."
+android-open-project,Trinea,,31839,11890,29,4423,False,False,False,True,"A categorized collection of Android Open Source Projects,  More powerful web version:"
+chatgpt-web,Chanzhaoyu,Vue,31837,11009,1,1101,False,True,True,True,用 Express 和  Vue3 搭建的 ChatGPT 演示网页
+PDFMathTranslate,PDFMathTranslate,Python,31793,2870,132,526,False,False,True,True,[EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
+html2canvas,niklasvh,TypeScript,31785,4882,1046,5327,False,False,True,True,Screenshots with JavaScript
+MS-DOS,microsoft,Assembly,31740,4543,3,2790,False,False,False,True,"The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes"
+erpnext,frappe,Python,31728,10443,2071,5365,True,False,True,True,Free and Open Source Enterprise Resource Planning (ERP)
+vimrc,amix,Vim Script,31695,7302,21,5009,False,False,False,True,The ultimate Vim configuration (vimrc)
+lottie-web,airbnb,JavaScript,31683,2929,844,4011,False,False,True,True,"Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/"
+glances,nicolargo,Python,31670,1683,155,5186,False,True,True,True,"Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems."
+marker,datalab-to,Python,31663,2164,375,837,False,False,True,True,Convert PDF to markdown + JSON quickly with high accuracy
+nginx-proxy-manager,NginxProxyManager,TypeScript,31661,3609,944,2977,False,False,True,True,"Docker container for managing Nginx proxy hosts with a simple, powerful interface"
+rxjs,ReactiveX,TypeScript,31641,3003,293,3989,True,True,True,True,A reactive programming library for JavaScript
+500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code,ashishpatel26,,31628,6854,61,1869,False,False,True,True,500 AI Machine learning Deep learning Computer vision NLP Projects with code
+shardeum,shardeum,TypeScript,31594,702,88,668,True,True,True,True,Shardeum is an EVM based autoscaling blockchain
+ExplorerPatcher,valinet,C,31550,1281,298,1650,False,False,True,True,This project aims to enhance the working environment on Windows
+vue-vben-admin,vbenjs,Vue,31548,8592,100,2044,False,False,True,True,"A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!"
+rocksdb,facebook,C++,31542,6731,1411,4824,True,True,True,True,"A library that provides an embeddable, persistent key-value store for fast storage."
+FlClash,chen08209,Dart,31542,1920,632,914,False,False,True,True,"A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free."
+slate,ianstormtaylor,TypeScript,31529,3335,696,3528,False,False,True,True,A completely customizable framework for building rich text editors. (Currently in beta.)
+conductor,conductor-oss,Java,31515,808,132,799,True,True,True,True,Conductor is an event driven orchestration platform providing durable and highly resilient execution engine for your applications
+editor.js,codex-team,TypeScript,31514,2231,688,3730,False,False,True,True,A block-style editor with clean JSON output
+minikube,kubernetes,Go,31480,5174,648,3591,False,True,True,True,Run Kubernetes locally
+system_prompts_leaks,asgeirtj,HTML,31455,5030,32,287,False,False,True,True,"Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini"
+numpy,numpy,Python,31439,12054,2319,5632,False,True,True,True,The fundamental package for scientific computing with Python.
+oh-my-opencode,code-yeongyu,TypeScript,31404,2340,236,73,False,True,True,True,the best agent harness
+continue,continuedev,TypeScript,31391,4152,783,997,True,True,True,True,⏩ Ship faster with Continuous AI. Open-source CLI that can be used in Headless mode to run async cloud agents or TUI mode as an in sync coding agent
+tinygrad,tinygrad,Python,31366,3891,222,1945,False,False,True,True,You like pytorch? You like micrograd? You love tinygrad! ❤️ 
+CheatSheetSeries,OWASP,Python,31357,4379,67,2612,True,True,True,True,The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
+lede,coolsnowwolf,C,31314,19507,819,3083,False,False,True,True,Lean's LEDE source
+just,casey,Rust,31256,666,387,3529,False,True,True,True,🤖 Just a command runner
+kitty,kovidgoyal,Python,31253,1278,28,3408,False,True,True,True,"If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based."
+posthog,PostHog,Python,31245,2283,3079,2213,False,True,True,True,"🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack."
+dotfiles,mathiasbynens,Shell,31225,8630,186,5275,False,False,False,True,":wrench: .files, including ~/.macos — sensible hacker defaults for macOS"
+influxdb,influxdata,Rust,31212,3699,2130,4524,False,True,True,True,"Scalable datastore for metrics, events, and real-time analytics"
+ui-ux-pro-max-skill,nextlevelbuilder,Python,31196,3071,51,76,False,False,False,True,An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
+interactive-coding-challenges,donnemartin,Python,31167,4634,75,3944,False,True,False,True,120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
+alpine,alpinejs,HTML,31162,1347,13,2270,False,False,True,True,"A rugged, minimal framework for composing JavaScript behavior in your markup. "
+jsPDF,parallax,JavaScript,31112,4802,113,5914,True,True,True,True,Client-side JavaScript PDF generation for everyone.
+Blog,mqyqingfeng,,31101,4679,300,3260,False,False,False,True,冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。
+WSL,microsoft,C++,31087,1612,956,3600,True,True,True,True,Windows Subsystem for Linux
+tokio,tokio-rs,Rust,31068,2931,398,3444,True,True,True,True,"A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ..."
+surrealdb,surrealdb,Rust,31065,1123,639,1528,True,True,True,True,"A scalable, distributed, collaborative, document-graph database, for the realtime web"
+Sortable,SortableJS,JavaScript,31011,3747,516,4440,False,True,True,True,Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
+motion,motiondivision,TypeScript,30994,1087,212,2647,False,True,True,True,A modern animation library for React and JavaScript
+docsify,docsifyjs,JavaScript,30975,5843,108,3373,False,True,True,True,🃏 A magical documentation site generator.
+ChatDev,OpenBMB,Python,30961,3813,35,901,False,False,True,True,ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
+DevToys,DevToys-app,C#,30959,1708,315,1599,False,True,True,True,A Swiss Army knife for developers.
+tqdm,tqdm,Python,30954,1434,583,3909,True,True,True,True,":zap: A Fast, Extensible Progress Bar for Python and CLI"
+raylib,raysan5,C,30947,2925,20,4496,False,True,True,True,A simple and easy-to-use library to enjoy videogames programming
+symfony,symfony,PHP,30942,9808,603,5885,True,True,True,True,The Symfony PHP framework
+fabric.js,fabricjs,TypeScript,30929,3621,468,5728,True,True,True,True,"Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser"
+graphrag,microsoft,Python,30927,3261,58,688,True,True,True,True,A modular graph-based Retrieval-Augmented Generation (RAG) system
+OpenAPI-Specification,OAI,Markdown,30917,9170,115,4365,False,True,True,True,The OpenAPI Specification Repository
+lux,iawia002,Go,30897,3239,532,2912,False,True,True,True,👾 Fast and simple video download library and CLI tool written in Go
+calculator,microsoft,C++,30855,5712,456,2573,True,True,True,True,Windows Calculator: A simple yet powerful calculator that ships with Windows
+weekly,ascoders,JavaScript,30843,3281,3,3253,False,False,False,True,前端精读周刊。帮你理解最前沿、实用的技术。
+pytorch-lightning,Lightning-AI,Python,30834,3670,949,2512,False,False,True,True,"Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes."
+jQuery-File-Upload,blueimp,PHP,30832,7828,52,5554,False,False,True,True,"File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads."
+p3c,alibaba,Kotlin,30826,8047,186,3158,False,False,True,True,Alibaba Java Coding Guidelines pmd implements and IDE plugin
+pear-desktop,pear-devs,TypeScript,30807,1753,634,2492,False,False,True,True,Pear 🍐 is extension for music player
+ML-From-Scratch,eriklindernoren,Python,30776,5183,70,3296,False,False,False,True,Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
+webtorrent,webtorrent,JavaScript,30762,2786,83,4505,False,False,True,True,⚡️ Streaming torrent client for the web
+AI-Expert-Roadmap,AMAI-GmbH,JavaScript,30733,2568,18,1938,False,True,True,True,Roadmap to becoming an Artificial Intelligence Expert in 2022
+podman,containers,Go,30687,2976,1056,3027,False,True,True,True,Podman: A tool for managing OCI containers and pods.
+spring-boot-examples,ityouknow,Java,30641,12303,17,3388,False,False,False,True,about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。 
+uppy,transloadit,TypeScript,30634,2085,179,3743,False,False,True,True,The next open source file uploader for web browsers :dog: 
+sing-box,SagerNet,Go,30574,3584,207,1325,False,False,True,True,The universal proxy platform
+TrackersListCollection,XIU2,,30559,1760,1,2326,False,False,False,True,🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
+mantine,mantinedev,TypeScript,30545,2244,59,1864,False,True,True,True,A fully featured React components library
+layui,layui,JavaScript,30532,7423,79,3798,True,True,True,True,一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。
+DeepFaceLive,iperov,Python,30521,1117,1,1887,False,False,False,True,Real-time face swap for PC streaming or video calls
+roop,s0md3v,Python,30510,6909,4,993,False,True,True,True,one-click face swap
+goose,block,Rust,30431,2750,324,539,False,True,True,True,"an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM"
+refined-github,refined-github,TypeScript,30423,1670,117,3652,False,False,True,True,:octocat: Browser extension that simplifies the GitHub interface and adds useful features
+dokploy,Dokploy,TypeScript,30379,2069,486,666,False,True,True,True,"Open Source Alternative to Vercel, Netlify and Heroku."
+particles.js,VincentGarreau,JavaScript,30375,4845,366,4179,False,False,False,True,A lightweight JavaScript library for creating particles
+hutool,chinabugotech,Java,30345,7668,3,4325,False,False,True,True,🍬A set of tools that keep Java sweet.
+sequelize,sequelize,TypeScript,30335,4320,1006,5686,False,True,True,True,"Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i."
+algo,trailofbits,Python,30334,2363,68,3562,False,True,True,True,Set up a personal VPN in the cloud
+3x-ui,MHSanaei,HTML,30317,5928,362,1100,False,True,True,True,"Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Tunnel, Mixed, HTTP, Tun) "
+btop,aristocratos,C++,30305,916,453,1744,True,True,True,True,A monitor of resources
+NeteaseCloudMusicApi,Binaryify,,30287,15769,147,3524,False,False,False,True,网易云音乐 Node.js API service
+stanford_alpaca,tatsu-lab,Python,30266,4014,189,1071,False,False,False,True,"Code and documentation to train Stanford's Alpaca models, and generate the data."
+folly,facebook,C++,30253,5847,444,5005,True,True,True,True,An open-source C++ library developed and used at Facebook.
+awesome-macos-command-line,herrbischoff,,30247,1438,0,3797,False,False,False,True,Use your macOS terminal shell to do awesome things.
+react-three-fiber,pmndrs,TypeScript,30244,1776,6,2546,False,True,True,True,🇨🇭 A React renderer for Three.js
+HEAD,joshbuchea,,30239,1927,29,3586,False,False,True,True,A simple guide to HTML <head> elements
+frigate,blakeblackshear,TypeScript,30237,2834,154,2576,False,False,True,True,NVR with realtime local object detection for IP cameras
+seaweedfs,seaweedfs,Go,30225,2702,690,4233,True,False,True,True,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com."
+awesome-python-cn,jobbole,Makefile,30212,7983,24,3756,False,False,False,True,Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。
+changedetection.io,dgtlmoon,Python,30212,1681,333,1844,False,True,True,True,"Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!"
+awesome-system-design-resources,ashishps1,Java,30196,6849,5,843,False,False,False,True,Learn System Design concepts and prepare for interviews using free resources.
+vscodium,VSCodium,Shell,30156,1553,143,2742,True,True,True,True,binary releases of VS Code without MS branding/telemetry/licensing
+os-tutorial,cfenollosa,C,30145,3536,127,4156,False,False,False,True,How to create an OS from scratch
+Proton,ValveSoftware,C++,30121,1324,4995,2894,False,False,True,True,Compatibility tool for Steam Play based on Wine and additional components
+cheerio,cheeriojs,TypeScript,30099,1684,30,5242,False,True,True,True,"The fast, flexible, and elegant library for parsing and manipulating HTML and XML."
+Avalonia,AvaloniaUI,C#,30052,2604,1918,4453,True,True,True,True,"Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology"
+prompt-eng-interactive-tutorial,anthropics,Jupyter Notebook,29998,2976,50,683,False,False,False,True,Anthropic's Interactive Prompt Engineering Tutorial
+viper,spf13,Go,29987,2097,120,4336,False,False,True,True,Go configuration with fangs
+TradingAgents,TauricResearch,Python,29986,5734,235,413,False,False,False,True,TradingAgents: Multi-Agents LLM Financial Trading Framework
+dragonfly,dragonflydb,C++,29965,1148,312,1526,True,True,True,True,A modern replacement for Redis and Memcached
+rust-course,sunface,Rust,29932,2543,66,2748,False,False,True,True,"“连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石"" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book "
+xxl-job,xuxueli,Java,29913,11450,250,3731,False,False,True,True,A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
+openai-python,openai,Python,29907,4557,262,1937,False,True,True,True,The official Python library for the OpenAI API
+k6,grafana,Go,29903,1500,783,3617,True,True,True,True,"A modern load testing tool, using Go and JavaScript"
+leakcanary,square,Kotlin,29891,3980,153,3943,False,False,True,True,A memory leak detection library for Android.
+django-rest-framework,encode,Python,29872,7067,88,5462,False,True,True,True,Web APIs for Django. 🎸
+jumpserver,jumpserver,Python,29857,5654,109,4243,True,True,True,True,"JumpServer is an open-source Privileged Access Management (PAM) platform that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints through a web browser."
+handson-ml2,ageron,Jupyter Notebook,29847,13242,229,2594,False,False,True,True,"A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2."
+css-protips,AllThingsSmitty,,29842,2207,6,3822,False,True,False,True,⚡️ A collection of tips to help take your CSS skills pro 🦾
+tdesktop,telegramdesktop,C++,29836,6266,936,4306,False,False,True,True,Telegram Desktop messaging app
+hosts,StevenBlack,Python,29826,2384,138,5055,True,True,True,True,"🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories."
+tuning_playbook,google-research,,29802,2411,14,1122,False,True,False,True,A playbook for systematically maximizing the performance of deep learning models.
+lighthouse,GoogleChrome,JavaScript,29801,9668,505,3630,True,True,True,True,"Automated auditing, performance metrics, and best practices for the web."
+turborepo,vercel,Rust,29797,2251,140,1592,True,True,True,True,"Build system optimized for JavaScript and TypeScript, written in Rust"
+foundation-sites,foundation,HTML,29779,5411,77,5237,False,True,True,True,The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
+apollo,apolloconfig,Java,29777,10217,149,3634,True,True,True,True,Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
+WindTerm,kingToolbox,C,29750,2288,2324,2319,False,False,False,True,A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
+consul,hashicorp,Go,29739,4561,1354,4484,False,False,True,True,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure."
+BetterDisplay,waydabber,,29734,548,150,1574,False,False,False,True,"Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!"
+Mr.-Ranedeer-AI-Tutor,JushBJJ,,29688,3353,14,1051,False,False,True,True,A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
+one-api,songquanpeng,JavaScript,29665,5718,979,1029,False,False,True,True,"LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI."
+vue-cli,vuejs,JavaScript,29648,6282,1071,3702,False,False,True,True,🛠️ webpack-based tooling for Vue.js Development
+canal,alibaba,Java,29615,7671,1232,4780,False,False,True,True,阿里巴巴 MySQL binlog 增量订阅&消费组件 
+500lines,aosabook,JavaScript,29599,5859,58,4485,False,False,False,True,500 Lines or Less
+plyr,sampotts,JavaScript,29586,3125,926,4018,False,True,True,True,"A simple HTML5, YouTube and Vimeo player"
+openssl,openssl,C,29557,11050,1601,4777,False,True,True,True,TLS/SSL and crypto library
+react-boilerplate,react-boilerplate,JavaScript,29540,6069,130,4014,True,True,True,True,"🔥 A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices."
+project-guidelines,elsewhencode,JavaScript,29531,3184,16,3151,True,True,False,True,A set of best practices for JavaScript projects
+ai-engineering-hub,patchy631,Jupyter Notebook,29526,4772,123,481,False,False,False,True,"In-depth tutorials on LLMs, RAGs and real-world AI agent applications."
+python-guide,realpython,Batchfile,29506,5915,129,5450,True,True,False,True,"Python best practices guidebook, written for humans. "
+hey,bigint,TypeScript,29505,1803,7,1428,False,False,True,True,Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿
+phantomjs,ariya,C++,29486,5716,14,5528,False,True,True,True,Scriptable Headless Browser
+iced,iced-rs,Rust,29466,1488,400,2405,False,True,True,True,"A cross-platform GUI library for Rust, inspired by Elm"
+kickstart.nvim,nvim-lua,Lua,29433,44239,58,1331,False,False,True,True,A launch point for your personal nvim configuration
+standard,standard,JavaScript,29428,2314,128,4036,False,False,True,True,"🌟 JavaScript Style Guide, with linter & automatic code fixer"
+helm,helm,Go,29423,7477,400,3784,False,True,True,True,The Kubernetes Package Manager
+Hover,IanLunn,SCSS,29403,5689,42,4426,False,True,False,True,"A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS."
+Complete-Python-3-Bootcamp,Pierian-Data,Jupyter Notebook,29399,87508,270,2923,False,False,False,True,Course Files for Complete Python 3 Bootcamp Course on Udemy
+nginx,nginx,C,29344,7762,330,3889,True,True,True,True,The official NGINX Open Source repository.
