@@ -82,29 +82,17 @@ http://localhost:5000
 3. 更新 `repos.db` 数据库和 `top_1000_os_rules.csv` 文件
 4. 自动提交变更到仓库
 
-#### 配置步骤
-
-1. 在 GitHub 上创建 Personal Access Token：
-   - 进入 [Settings > Developer settings > Personal access tokens](https://github.com/settings/tokens)
-   - 创建新 Token，勾选 `public_repo` 权限
-2. 将 Token 添加到仓库 Secrets：
-   - 进入仓库页面 > **Settings** > **Secrets and variables** > **Actions**
-   - 点击 **New repository secret**
-   - Name 填 `PAT_TOKEN`，Value 填你的 Token
-
-配置完成后，工作流会每天定时执行。也可以在仓库的 **Actions** 标签页手动点击 **Run workflow** 立即触发。
-
 ### 手动同步（本地运行）
 
 也可以在本地手动运行同步脚本：
 
 ```bash
 # Linux / macOS
-export GITHUB_TOKEN="你的Token"
+export GITHUB_TOKEN="Your Token"
 python sync.py
 
 # Windows PowerShell
-$env:GITHUB_TOKEN="你的Token"
+$env:GITHUB_TOKEN="Your Token"
 python sync.py
 ```
 
