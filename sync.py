@@ -264,6 +264,43 @@ def export_csv():
     print(f"[CSV] exported {len(rows)} rows to {CSV_PATH}")
 
 
+# ── 5. 导出 JSON（供 GitHub Pages 静态站点使用） ────────────────────
+JSON_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data.json")
+
+
+def export_json():
+    """从数据库导出全量数据为 JSON 文件，用于 GitHub Pages 前端直接加载。"""
+    import json
+
+    db = sqlite3.connect(DB_PATH)
+    db.row_factory = sqlite3.Row
+    rows = db.execute("SELECT * FROM repos ORDER BY stars DESC").fetchall()
+    db.close()
+
+    records = []
+    for r in rows:
+        records.append({
+            "id": r["id"],
+            "repo_name": r["repo_name"],
+            "organization": r["organization"],
+            "language": r["language"],
+            "stars": r["stars"],
+            "forks": r["forks"],
+            "open_issues": r["open_issues"],
+            "age_days": r["age_days"],
+            "has_coc": bool(r["has_coc"]),
+            "has_contributing": bool(r["has_contributing"]),
+            "has_workflows": bool(r["has_workflows"]),
+            "has_readme": bool(r["has_readme"]),
+            "description": r["description"],
+        })
+
+    with open(JSON_PATH, "w", encoding="utf-8") as f:
+        json.dump(records, f, ensure_ascii=False)
+
+    print(f"[JSON] exported {len(records)} records to {JSON_PATH}")
+
+
 # ── 入口 ────────────────────────────────────────────────────────────
 def main():
     start = time.time()
@@ -280,6 +317,7 @@ def main():
     profiles = fetch_community_profiles(repos)
     sync_to_db(repos, profiles)
     export_csv()
+    export_json()
 
     elapsed = time.time() - start
     minutes = int(elapsed // 60)
