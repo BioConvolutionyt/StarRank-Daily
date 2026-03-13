@@ -1,0 +1,34 @@
+name: Daily Sync
+
+on:
+  schedule:
+    - cron: '0 2 * * *'    # 每天 UTC 02:00（北京时间 10:00）
+  workflow_dispatch:        # 支持手动触发
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run sync script
+        run: python sync.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add repos.db top_1000_os_rules.csv data.json
+          git diff --cached --quiet || git commit -m "chore: daily sync $(date -u +%Y-%m-%d)"
+          git push
