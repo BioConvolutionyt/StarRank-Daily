@@ -8,13 +8,6 @@
 
 **访问地址**：`https://BioConvolutionyt.github.io/StarRank-Daily/`
 
-### 开启 GitHub Pages
-
-1. 进入仓库页面 > **Settings** > **Pages**
-2. **Source** 选择 `Deploy from a branch`
-3. **Branch** 选择 `main`，目录选择 `/ (root)`
-4. 点击 **Save**，等待几分钟后即可通过上方地址访问
-
 GitHub Pages 版本为只读浏览模式，支持搜索、筛选、排序、分页和图表可视化。数据通过每日自动同步的 `data.json` 驱动，始终保持最新。
 
 ## 项目结构
@@ -100,18 +93,6 @@ http://localhost:5000
 2. 逐个查询每个仓库的社区规范信息（README、行为准则、贡献指南、工作流）
 3. 更新 `repos.db` 数据库和 `top_1000_os_rules.csv` 文件
 4. 自动提交变更到仓库
-
-#### 配置步骤
-
-1. 在 GitHub 上创建 Personal Access Token：
-   - 进入 [Settings > Developer settings > Personal access tokens](https://github.com/settings/tokens)
-   - 创建新 Token，勾选 `public_repo` 权限
-2. 将 Token 添加到仓库 Secrets：
-   - 进入仓库页面 > **Settings** > **Secrets and variables** > **Actions**
-   - 点击 **New repository secret**
-   - Name 填 `PAT_TOKEN`，Value 填你的 Token
-
-配置完成后，工作流会每天定时执行。也可以在仓库的 **Actions** 标签页手动点击 **Run workflow** 立即触发。
 
 ### 手动同步（本地运行）
 
