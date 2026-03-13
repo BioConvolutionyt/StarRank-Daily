@@ -171,21 +171,21 @@ function formatNumberFull(n) {
 }
 
 /* ── countUp 动画 ──────────────────────────────────────────────── */
-function countUp(el, target, duration = 800) {
+function countUp(el, target, duration = 800, formatter) {
     if (target == null || isNaN(target)) { el.textContent = "-"; return; }
     const start = performance.now();
-    const isLargeNum = target >= 1000;
+    const fmt = formatter || (target >= 1000 ? formatNumber : formatNumberFull);
 
     function update(now) {
         const elapsed = now - start;
         const progress = Math.min(elapsed / duration, 1);
         const eased = 1 - Math.pow(1 - progress, 3);
         const current = Math.round(target * eased);
-        el.textContent = isLargeNum ? formatNumber(current) : formatNumberFull(current);
+        el.textContent = fmt(current);
         if (progress < 1) {
             requestAnimationFrame(update);
         } else {
-            el.textContent = isLargeNum ? formatNumber(target) : formatNumberFull(target);
+            el.textContent = fmt(target);
         }
     }
     requestAnimationFrame(update);
@@ -563,7 +563,7 @@ function computeStats() {
 
     countUp(document.getElementById("stat-total"), total);
     countUp(document.getElementById("stat-total-stars"), totalStars);
-    countUp(document.getElementById("stat-avg-stars"), avgStars);
+    countUp(document.getElementById("stat-avg-stars"), avgStars, 800, formatNumberFull);
     countUp(document.getElementById("stat-max-stars"), maxStars);
     countUp(document.getElementById("stat-lang-count"), langSet.size, 500);
 }
