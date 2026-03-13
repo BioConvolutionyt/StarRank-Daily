@@ -2,20 +2,39 @@
 
 基于 GitHub REST API 收集的 **1000 个最高星标公共开源仓库** 的本地数据库应用，提供完整的增删改查功能、数据可视化图表和高级筛选能力，并通过 GitHub Actions 每日自动同步最新数据。
 
+## 在线访问（GitHub Pages）
+
+本项目支持通过 GitHub Pages 直接在线浏览，无需安装任何软件或运行服务器：
+
+**访问地址**：`https://<你的用户名>.github.io/StarRank-Daily/`
+
+### 开启 GitHub Pages
+
+1. 进入仓库页面 > **Settings** > **Pages**
+2. **Source** 选择 `Deploy from a branch`
+3. **Branch** 选择 `main`，目录选择 `/ (root)`
+4. 点击 **Save**，等待几分钟后即可通过上方地址访问
+
+GitHub Pages 版本为只读浏览模式，支持搜索、筛选、排序、分页和图表可视化。数据通过每日自动同步的 `data.json` 驱动，始终保持最新。
+
 ## 项目结构
 
 ```
 StarRank Daily/
-├── app.py                        # Flask 后端主程序（启动入口）
+├── index.html                    # GitHub Pages 静态入口（在线访问）
+├── data.json                     # 静态站点数据源（同步时自动更新）
+├── app.py                        # Flask 后端主程序（本地完整版入口）
 ├── sync.py                       # GitHub API 数据同步脚本
 ├── repos.db                      # SQLite 数据库（首次运行自动生成）
 ├── top_1000_os_rules.csv         # 原始 CSV 数据源（同步时自动更新）
 ├── requirements.txt              # Python 依赖清单
 ├── templates/
-│   └── index.html                # 网页模板
+│   └── index.html                # Flask 网页模板（本地完整版）
 ├── static/
-│   ├── css/style.css             # 自定义样式
-│   └── js/app.js                 # 前端交互逻辑
+│   ├── css/style.css             # 自定义样式（两个版本共享）
+│   └── js/
+│       ├── app.js                # Flask 版前端逻辑
+│       └── app-static.js         # GitHub Pages 版前端逻辑
 └── .github/
     └── workflows/
         └── daily-sync.yml        # GitHub Actions 每日同步工作流
@@ -81,6 +100,18 @@ http://localhost:5000
 2. 逐个查询每个仓库的社区规范信息（README、行为准则、贡献指南、工作流）
 3. 更新 `repos.db` 数据库和 `top_1000_os_rules.csv` 文件
 4. 自动提交变更到仓库
+
+#### 配置步骤
+
+1. 在 GitHub 上创建 Personal Access Token：
+   - 进入 [Settings > Developer settings > Personal access tokens](https://github.com/settings/tokens)
+   - 创建新 Token，勾选 `public_repo` 权限
+2. 将 Token 添加到仓库 Secrets：
+   - 进入仓库页面 > **Settings** > **Secrets and variables** > **Actions**
+   - 点击 **New repository secret**
+   - Name 填 `PAT_TOKEN`，Value 填你的 Token
+
+配置完成后，工作流会每天定时执行。也可以在仓库的 **Actions** 标签页手动点击 **Run workflow** 立即触发。
 
 ### 手动同步（本地运行）
 
@@ -190,6 +221,18 @@ python sync.py
 | `has_readme` | 布尔 | 是否有 README 文件 |
 | `description` | 文本 | 项目描述 |
 
+## 两种使用方式对比
+
+| 特性 | GitHub Pages（在线版） | Flask（本地完整版） |
+|------|----------------------|-------------------|
+| 访问方式 | 浏览器直接打开 | 运行 `python app.py` |
+| 数据来源 | `data.json` | `repos.db`（SQLite） |
+| 搜索/筛选/排序 | 客户端计算 | 服务端 SQL 查询 |
+| 图表可视化 | 支持 | 支持 |
+| 增删改查 | 只读 | 完整 CRUD |
+| 导出 | CSV（客户端生成） | CSV + Excel |
+| 数据更新 | GitHub Actions 自动 | 手动运行 sync.py |
+
 ## 技术栈
 
 | 层级 | 技术 |
@@ -202,3 +245,4 @@ python sync.py
 | 导出 | openpyxl (Excel) / csv (CSV) |
 | 数据同步 | GitHub REST API / requests |
 | 自动化 | GitHub Actions（每日定时） |
+| 静态部署 | GitHub Pages |
