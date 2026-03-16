@@ -342,7 +342,7 @@ function renderCurrentPage() {
             </div>
         </td></tr>`;
     } else {
-        tbody.innerHTML = pageData.map((r, i) => renderRow(r, i)).join("");
+        tbody.innerHTML = pageData.map((r, i) => renderRow(r, i, startIdx)).join("");
     }
 
     updatePagination();
@@ -370,7 +370,7 @@ function renderSkeletonRows(count = 5) {
 }
 
 /* ── 渲染表格行 ────────────────────────────────────────────────── */
-function renderRow(r, index) {
+function renderRow(r, index, startIdx) {
     const communityBadges = [
         { key: "has_readme", icon: "bi-file-text", title: "README" },
         { key: "has_coc", icon: "bi-shield-check", title: "行为准则" },
@@ -397,7 +397,7 @@ function renderRow(r, index) {
     const delay = index * 30;
 
     return `<tr style="animation-delay:${delay}ms">
-        <td class="col-id text-muted">${r.id}</td>
+        <td class="col-id text-muted">${startIdx + index + 1}</td>
         <td>
             <a class="repo-name" onclick="showDetail(${r.id})">${escapeHtml(r.repo_name)}</a>
             ${desc}
