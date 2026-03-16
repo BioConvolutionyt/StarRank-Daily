@@ -561,7 +561,7 @@ function computeStats() {
     const maxStars = Math.max(...allRepos.map(r => r.stars));
     const langSet = new Set(allRepos.map(r => r.language).filter(Boolean));
 
-    countUp(document.getElementById("stat-total"), total);
+    countUp(document.getElementById("stat-total"), total, 800, formatNumberFull);
     countUp(document.getElementById("stat-total-stars"), totalStars);
     countUp(document.getElementById("stat-avg-stars"), avgStars, 800, formatNumberFull);
     countUp(document.getElementById("stat-max-stars"), maxStars);
