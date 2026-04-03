@@ -8,7 +8,7 @@ GitHub Top 1000 Repos -- Daily Sync Script
     python sync.py
 
 环境变量:
-    GITHUB_TOKEN  -- GitHub Personal Access Token（可选但强烈推荐）
+    GITHUB_TOKEN  -- GitHub Personal Access Token
 """
 
 import csv
@@ -164,11 +164,13 @@ def sync_to_db(repos, profiles):
     now = datetime.now().isoformat()
     updated = 0
     inserted = 0
+    current_keys = set()
 
     for item in repos:
         owner = item["owner"]["login"]
         name = item["name"]
         key = f"{owner}/{name}"
+        current_keys.add((name, owner))
         profile = profiles.get(key, {})
 
         created_at_str = item.get("created_at", "")
@@ -229,9 +231,15 @@ def sync_to_db(repos, profiles):
             ))
             inserted += 1
 
+    all_rows = db.execute("SELECT id, repo_name, organization FROM repos").fetchall()
+    stale_ids = [row[0] for row in all_rows if (row[1], row[2]) not in current_keys]
+    if stale_ids:
+        placeholders = ",".join("?" * len(stale_ids))
+        db.execute(f"DELETE FROM repos WHERE id IN ({placeholders})", stale_ids)
+
     db.commit()
     db.close()
-    print(f"[DB] done -- updated: {updated}, inserted: {inserted}")
+    print(f"[DB] done -- updated: {updated}, inserted: {inserted}, removed: {len(stale_ids)}")
 
 
 # ── 4. 导出 CSV ────────────────────────────────────────────────────
