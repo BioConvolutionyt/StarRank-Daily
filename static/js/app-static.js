@@ -561,10 +561,25 @@ function computeStats() {
     const maxStars = Math.max(...allRepos.map(r => r.stars));
     const langSet = new Set(allRepos.map(r => r.language).filter(Boolean));
 
+    const langCount = {};
+    allRepos.forEach(r => {
+        if (r.language) langCount[r.language] = (langCount[r.language] || 0) + 1;
+    });
+    const topLang = Object.entries(langCount).sort((a, b) => b[1] - a[1])[0];
+
     countUp(document.getElementById("stat-total"), total, 800, formatNumberFull);
-    countUp(document.getElementById("stat-total-stars"), totalStars);
     countUp(document.getElementById("stat-avg-stars"), avgStars, 800, formatNumberFull);
     countUp(document.getElementById("stat-max-stars"), maxStars);
+
+    const topLangEl = document.getElementById("stat-top-lang");
+    if (topLang) {
+        topLangEl.textContent = topLang[0];
+        const ls = getLangStyle(topLang[0]);
+        if (ls) {
+            topLangEl.style.color = ls.bg;
+        }
+    }
+
     countUp(document.getElementById("stat-lang-count"), langSet.size, 500);
 }
 
